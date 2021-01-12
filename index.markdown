@@ -3,8 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Homepage
+title:
 ---
+
+<!--- ![](profile_picture.jpg) --->
+
+<img src="profile_picture.jpg"
+     alt="Profile picture"
+     width="250"
+     style="float: left; margin-top: 15px; margin-right: 15px; margin-bottom: 0px" />
 
 # Introduction
 
