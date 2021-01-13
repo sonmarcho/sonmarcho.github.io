@@ -15,13 +15,13 @@ title:
 
 # Introduction
 
-I am a PhD student working at [INRIA](https://www.inria.fr/fr/centre-inria-de-paris) in
+I am a Ph.D. candidate working at [INRIA](https://www.inria.fr/fr/centre-inria-de-paris) in
 the [Prosecco](https://prosecco.gforge.inria.fr/) team, under the supervision of
 [Karthikeyan Barghavan](https://prosecco.gforge.inria.fr/personal/karthik/) and [Jonathan
 Protzenko](https://jonathan.protzenko.fr/). My research field is the formal verification
 of computer programs, which basically consists in applying mathematical analyses to
 programs in order to check that they behave in some well-defined manner, for example that
-an embedded system never crashes or that a cryptographic protocol never reveals secret
+an embedded system never crashes, or that a cryptographic protocol never reveals secret
 data such as private keys or passwords.
 
 # Motivation
