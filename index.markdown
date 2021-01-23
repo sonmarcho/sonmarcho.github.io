@@ -115,7 +115,7 @@ quickly grew to [computer graphics](https://flic.kr/s/aHsmTRmDc1),
 which in turn is the [reason why I discovered computer
 programming](https://github.com/Kachoc/CrowdEngine).
 I later applied this
-habit to playing the piano and even more recently to
+discipline to playing the piano and even more recently to
 [learning Chinese](3_months_of_chinese_conversation.gif) after 
 I lived in Shanghai in 2019 (I haven't passed any HSK yet, but am seriously
 working on it).
