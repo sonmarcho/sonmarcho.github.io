@@ -110,12 +110,12 @@ over the course of the years, either by discovering a new interest or by coming
 back to an old passion, I always practice with dedication to learn something
 on the long term.
 
-The passion I originally had for [drawing](https://www.flickr.com/photos/kachoc/)
-quickly grew to computer graphics,
+The passion I originally had for [drawing](https://flic.kr/s/aHsmTwxoF7)
+quickly grew to [computer graphics](https://flic.kr/s/aHsmTRmDc1),
 which in turn is the [reason why I discovered computer
 programming](https://github.com/Kachoc/CrowdEngine).
 I later applied this
-habit to playing the piano and even more recently
+habit to playing the piano and even more recently to
 [learning Chinese](3_months_of_chinese_conversation.gif) after 
 I lived in Shanghai in 2019 (I haven't passed any HSK yet, but am seriously
 working on it).
