@@ -2,5 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-./images/images/unused/*
+assets/images/unused*
 vendor
+*~
+*.out
