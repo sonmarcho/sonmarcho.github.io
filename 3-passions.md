@@ -249,13 +249,12 @@ you learn a lot - a lot more than the other techniques.
   </p>
 
   <div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
-  <img src="https://www.magasinsennelier.art/modules/pspagebuilder/views/img/magasin1900.jpg"
+  <img src="assets/images/sennelier-shop.jpg"
        alt=""
-       width="300"
+       width="500"
        style="" />
   <figcaption>
-  The Sennelier shop in 1900
-  (from <a href="http://couleursduquai.com/un-peu-dhistoire/">Sennelier's website</a>)
+  The Sennelier shop in Paris
   </figcaption>
   </div>
 
