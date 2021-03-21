@@ -362,7 +362,7 @@ and since then have been practicing with diligence.
      width="500"
      style="" />
 <figcaption>
-Frankly, I think we should count the time spent on learning
+Frankly, I think we should measure the time spent on learning
 Chinese in kilometers of copied characters
 </figcaption>
 </div>
@@ -374,8 +374,9 @@ once a week, tandems with some Chinese partners at
 least twice a week, [Anki](https://apps.ankiweb.net/) for the flash cards,
 newspapers like [Caixin](http://www.caixin.com/?HOLDZH) occasionally
 and Chinese TV series when I have spare time.
-I always focus on tandems when I don't have much time, because
-I think practicing conversation it is the most useful. Note that it is easy to find partners
+I always focus on tandems when I don't have much time, because I think
+practicing conversation is by far the most useful, and it is also a lot of fun.
+Note that it is easy to find partners
 on applications like [Tandem](https://www.tandem.net).
 
 About TV series, I started with
