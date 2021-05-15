@@ -371,9 +371,11 @@ Chinese in kilometers of copied characters
 While it is easy to learn Chinese in China, I had to adapt a bit once I was back in
 France to build a proper learning environment. My way of doing it: Chinese class
 once a week, tandems with some Chinese partners at
-least twice a week, [Anki](https://apps.ankiweb.net/) for the flash cards,
-newspapers like [Caixin](http://www.caixin.com/?HOLDZH) occasionally
+least twice a week, a bit of reading,
 and Chinese TV series when I have spare time.
+I used to learn vocabulary with the flash cards application
+[Anki](https://apps.ankiweb.net/), but have stopped because it proved quite
+inefficient.
 I always focus on tandems when I don't have much time, because I think
 practicing conversation is by far the most useful, and it is also a lot of fun.
 Note that it is easy to find partners
@@ -393,6 +395,16 @@ its rich and complex plot. It is good to watch (I love the
 study Chinese unless you want to learn a lot of old and specific terms, as well as all
 the possible ways of addressing someone at the imperial court (殿下, 陛下,
 whatever...).
+
+I've recently discovered the science fiction author Liu Cixin (刘慈欣) and
+really love his books. If you don't know where to start, I recommend his short
+novel *The Wandering Earth* (流浪地球 - don't watch the movie).
+Reading proved to be my most efficient way of acquiring vocabulary.
+Note that finding Chinese books can be difficult outside of China
+and importing them is quite expensive, so I buy ebooks on my Kobo reader.
+Even online, I sometimes have trouble finding mainland books and thus often end
+up buying the Taiwanese version (i.e.: with traditional characters),
+but as I intend to learn calligraphy I guess it is for the best...
 
 Also, I loved going to KTVs while in Shanghai, and ended up knowing a small
 repertoire of Chinese songs. My favourites:
