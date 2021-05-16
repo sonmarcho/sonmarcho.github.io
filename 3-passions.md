@@ -400,11 +400,18 @@ I've recently discovered the science fiction author Liu Cixin (刘慈欣) and
 really love his books. If you don't know where to start, I recommend his short
 novel *The Wandering Earth* (流浪地球 - don't watch the movie).
 Reading proved to be my most efficient way of acquiring vocabulary.
-Note that finding Chinese books can be difficult outside of China
-and importing them is quite expensive, so I buy ebooks on my Kobo reader.
+As finding Chinese books can be difficult outside of China
+and importing them is quite expensive, I buy ebooks on my Kobo reader.
 Even online, I sometimes have trouble finding mainland books and thus often end
 up buying the Taiwanese version (i.e.: with traditional characters),
 but as I intend to learn calligraphy I guess it is for the best...
+
+<div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
+<img src="assets/images/liu-cixin.jpg"
+     width=500
+     alt="" />
+<figcaption>Supernova Era (超新星纪元), Liu Cixin (刘慈欣)</figcaption>
+</div>
 
 Also, I loved going to KTVs while in Shanghai, and ended up knowing a small
 repertoire of Chinese songs. My favourites:
