@@ -3,6 +3,13 @@ layout: page
 title: "Past Experience"
 ---
 
+## Microsoft Research --- Summer 2021
+
+During this research internship at Microsoft Research, I explored the
+verification of Rust programs. This eventually led to my current project, Aeneas,
+a verification framework which works by translating safe Rust programs to pure
+lambda calculus.
+
 ## Carrefour China - 家乐福中国 --- 2018-2019
 
 I worked almost a year in Shanghai for Carrefour China, the
