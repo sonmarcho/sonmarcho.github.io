@@ -5,6 +5,11 @@ title: "Papers & Talks"
 
 ## Publications
 
+### 2022
+
+* [**Noise\*: A Library of Verified High-Performance Secure Channel Protocol Implementations**](https://eprint.iacr.org/2022/607.pdf)
+  <ins>Son Ho</ins>, Jonathan Protzenko, Abhishek Bichhawat, Karthikeyan Bhargavan. *(S&P’22).*
+
 ### 2020
 
 * [**Proof-Producing Synthesis of CakeML from Monadic HOL Functions**](https://rdcu.be/b4FrU),  
@@ -24,6 +29,19 @@ title: "Papers & Talks"
 
 ## Talks
 
+### 2022
+
+* **Noise\*: A Library of Verified High-Performance Secure Channel Protocol Implementations**,
+  S&P'22. [teaser](https://www.youtube.com/watch?v=sjksMiK3If8). [PPTX](papers/2022-05-23-noise-star-sp.pptx)
+
+* **Aeneas: Rust Verification by Functional Translation**,
+  Cambium seminar at Inria Paris. [PDF](http://cambium.inria.fr/seminaires/transparents/20220516.Son.Ho.pdf).
+
+### 2021 
+* **Noise\*: A Library of Verified High-Performance Secure Channel Protocol Implementations**,
+  I gave variations of this talk at Inria Paris and at MSR. [PDF](http://cambium.inria.fr/seminaires/transparents/20210927.Son.Ho.pdf).
+  
+
 ### 2018
 
-* **Proof-Producing Synthesis of CakeML with I/O and Local State from Monadic HOL Functions**, IJCAR 2018. [Slides](https://easychair.org/smart-slide/slide/vkLp#).
+* **Proof-Producing Synthesis of CakeML with I/O and Local State from Monadic HOL Functions**, IJCAR 2018. [PDF](https://easychair.org/smart-slide/slide/vkLp#).
