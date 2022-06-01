@@ -138,6 +138,8 @@ MIR in effect) and is already open-source. Aeneas is a compiler written in OCaml
 translates LLBC to a pure lambda-calculus. We will open-source it once we have a preprint (coming
 soon!).
 
+If you're interested in my work, and in Rust verification in general, feel free to **drop me a mail**!
+
 # Side Projects
 
 ## F\* Extended Mode
