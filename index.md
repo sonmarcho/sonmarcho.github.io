@@ -36,7 +36,7 @@ programmers use, and still has many gaps regarding the verification of whole sys
 thus believe we have yet to create the tools which will be widely adopted tomorrow in the
 industry.
 
-# My Research Journey (Projects)
+# Research Journey (Projects)
 
 ## Noise\*
 
