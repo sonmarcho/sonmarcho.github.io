@@ -8,7 +8,8 @@ title: "Papers & Talks"
 ### 2022
 
 * **Aeneas: Rust Verification by Functional Translation**,
-  <ins>Son Ho</ins>, Jonathan Protzenko. *To be published*.
+  <ins>Son Ho</ins>, Jonathan Protzenko. *Conditionally accepted at ICFP 2022*.
+  [long version](https://arxiv.org/abs/2206.07185)
 
 * [**Noise\*: A Library of Verified High-Performance Secure Channel Protocol Implementations**](https://eprint.iacr.org/2022/607.pdf)
   <ins>Son Ho</ins>, Jonathan Protzenko, Abhishek Bichhawat, Karthikeyan Bhargavan. *(S&P’22).*
