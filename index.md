@@ -135,8 +135,9 @@ our research effort led to the development of [Charon](https://github.com/Kachoc
 Aeneas. Charon is a compiler pluging for the Rust compiler, which translates Rust programs (starting
 from the MIR) to an intermediate language we called LLBC (Low Level Borrow Calculus - a "cleaned-up"
 MIR in effect) and is already open-source. Aeneas is a compiler written in OCaml which then
-translates LLBC to a pure lambda-calculus. We will open-source it once we have a preprint (coming
-soon!).
+translates LLBC to a pure lambda-calculus. The long-version of the paper is
+available [here](https://arxiv.org/abs/2206.07185), and the code is
+[there](https://github.com/AeneasVerif).
 
 If you're interested in my work, and in Rust verification in general, feel free to **drop me a mail**!
 
