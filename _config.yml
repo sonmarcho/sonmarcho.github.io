@@ -4,8 +4,8 @@ description: INRIA, Paris
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Kachoc_
-github_username:  Kachoc
+twitter_username: sonmarcho
+github_username:  sonmarcho
 
 # Build settings
 theme: minima
