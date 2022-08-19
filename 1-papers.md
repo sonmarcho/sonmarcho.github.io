@@ -8,16 +8,22 @@ title: "Papers & Talks"
 ### 2022
 
 * **Aeneas: Rust Verification by Functional Translation**,
-  <ins>Son Ho</ins>, Jonathan Protzenko. *Conditionally accepted at ICFP 2022*.
+  <ins>Son Ho</ins>, Jonathan Protzenko. *(ICFP 2022)*.
   [long version](https://arxiv.org/abs/2206.07185)
 
-* [**Noise\*: A Library of Verified High-Performance Secure Channel Protocol Implementations**](https://eprint.iacr.org/2022/607.pdf)
+* [**Noise\*: A Library of Verified High-Performance Secure Channel Protocol Implementations**](https://eprint.iacr.org/2022/607.pdf),
   <ins>Son Ho</ins>, Jonathan Protzenko, Abhishek Bichhawat, Karthikeyan Bhargavan. *(S&P’22).*
+
+## 2021
+
+* [**Zero-cost meta-programmed stateful functors in F\***](https://arxiv.org/abs/2102.01644),
+  Jonathan Protzenko, <ins>Son Ho</ins>.
+
 
 ### 2020
 
-* [**Proof-Producing Synthesis of CakeML from Monadic HOL Functions**](https://rdcu.be/b4FrU),  
-  Oskar Abrahamsson, <ins>Son Ho</ins>, Hrutvik Kanabar, Ramana Kumar, Magnus O. Myreen, Michael Norrish, and Yong Kiam Tan,  
+* [**Proof-Producing Synthesis of CakeML from Monadic HOL Functions**](https://rdcu.be/b4FrU),
+  Oskar Abrahamsson, <ins>Son Ho</ins>, Hrutvik Kanabar, Ramana Kumar, Magnus O. Myreen, Michael Norrish, and Yong Kiam Tan,
   *Journal of Automated Reasoning (JAR)*, 2020, Springer.
 
 ### 2018
