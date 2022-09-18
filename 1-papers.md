@@ -17,7 +17,7 @@ title: "Papers & Talks"
 ## 2021
 
 * [**Zero-cost meta-programmed stateful functors in F\***](https://arxiv.org/abs/2102.01644),
-  Jonathan Protzenko, <ins>Son Ho</ins>.
+  Jonathan Protzenko, <ins>Son Ho</ins>. *(preprint)*.
 
 
 ### 2020
