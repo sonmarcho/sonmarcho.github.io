@@ -18,9 +18,8 @@ dedication to learn long-lasting skills.
 
 The passion I originally had for [drawing](#fine_arts) quickly grew to [computer
 graphics](#computer_graphics), which in turn is the [reason why I discovered
-computer programming](https://github.com/Kachoc/CrowdEngine).  I learnt to play
-the piano during my studies and am currently working hard to [learn
-Chinese](#chinese).
+computer programming](https://github.com/Kachoc/CrowdEngine). I am currently also
+working hard to [learn Chinese](#chinese).
 
 ## Fine Arts <a name="fine_arts"></a>
 
