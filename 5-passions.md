@@ -11,19 +11,16 @@ title: "Passions & Interests"
 <figcaption>Cat, <i>Pastel on Ingres paper, 50x65cm</i></figcaption>
 </div>
 
-A few years ago I adopted the habit
-of practicing a personal activity every day, or at least 
-once a week when I'm busy.
-I regularly go back and forth between pursuing new interests and
-rekindling old passions, but I always
-practice with dedication to learn long-lasting skills.
+A few years ago I adopted the habit of practicing a personal activity every day,
+or at least once a week when I'm busy.  I regularly go back and forth between
+pursuing new interests and rekindling old passions, but I always practice with
+dedication to learn long-lasting skills.
 
-The passion I originally had for [drawing](#fine_arts)
-quickly grew to [computer graphics](#computer_graphics),
-which in turn is the [reason why I discovered computer
-programming](https://github.com/Kachoc/CrowdEngine).
-I recently learnt to play the piano and am currently working hard to
-[learn Chinese](#chinese).
+The passion I originally had for [drawing](#fine_arts) quickly grew to [computer
+graphics](#computer_graphics), which in turn is the [reason why I discovered
+computer programming](https://github.com/Kachoc/CrowdEngine).  I learnt to play
+the piano during my studies and am currently working hard to [learn
+Chinese](#chinese).
 
 ## Fine Arts <a name="fine_arts"></a>
 
@@ -243,9 +240,9 @@ you learn a lot - a lot more than the other techniques.
   <b>Whenever I need to buy art material, I go to
   <a href="https://www.magasinsennelier.art"><i>Sennelier</i></a></b>, at quai
   Voltaire in Paris, a historical store dating from 1887. Sennelier is also a
-  brand, and a good one, as the founder Gustave Sennelier, who had a training 
-  in chemistry, started his shop by creating his own colors for
-  artists. Most of my pastel sticks are actually from Sennelier.
+  brand, and a good one. The founder, Gustave Sennelier, had a training 
+  in chemistry and started his shop by creating his own colors for
+  artists. Most of my pastel sticks are actually from there.
   </p>
 
   <div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
@@ -271,7 +268,7 @@ you learn a lot - a lot more than the other techniques.
   </p>
  
   <p>
-  The people working there are also very nice and know a lot about the products
+  The people working there are also nice and know a lot about the products
   they sell, meaning they always give good advice whenever you need some.
   For me, going there is a bit like 
   going to Shakespeare and Company for someone who loves English literature.
