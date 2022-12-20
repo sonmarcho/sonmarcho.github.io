@@ -23,16 +23,17 @@ stint in China in 2019, I have also been working hard on [learning Chinese](#chi
 
 ## Fine Arts <a name="fine_arts"></a>
 
-I have always been fond of drawing but didn't practice with enough discipline
-when in middle and high school.
+I have always been fond of drawing but was not very disciplined when in middle
+and high school.
 Once a student at *École polytechnique*, I adopted a more regular practice by
 joining the fine arts association. I then spent most of my time experimenting
 and trying to use colors, and had a hard time finding a technique which suited
 me.
-I didn't manage to make much of oil pastel and
-oil paint, though I intend to give another shot at oil paint, and was not
-convinced by acrylic. As a result, I didn't improve my skills much during this
-period.
+I then didn't manage to make much of oil pastel and oil paint and was not convinced
+by acrylic. As a result, I didn't improve my skills much during this period,
+though I intend to give another shot at oil paint as the problem was not that
+the technique didn't suit me, but rather that it requires some technicity which
+I need to take time to master.
 
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
 <img src="assets/images/acrylic-mont-blanc.jpg"

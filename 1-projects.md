@@ -155,7 +155,11 @@ authentication and confidentiality as was done with Noise\*, and potentially
 more. For now, Aeneas generates pure models for
 [F\*](https://www.fstar-lang.org/) and [Coq](https://coq.inria.fr/), and we are
 working on additional backends for [Lean](https://leanprover.github.io/) and
-[HOL4](https://hol-theorem-prover.org/).
+[HOL4](https://hol-theorem-prover.org/). This project is actually very similar
+to an older project called [Electrolysis](https://github.com/Kha/electrolysis)
+and which targeted LEAN: Aeneas is our attempt at designing a more principled
+translation which targets a bigger subset of Rust and generates code for several
+backends.
 
 Aeneas relies on [Charon](https://github.com/AeneasVerif/charon) to retrieve
 code from the Rust compiler. Charon is a driver which retrieves Rustc's output
