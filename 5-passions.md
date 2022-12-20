@@ -13,18 +13,18 @@ title: "Passions & Interests"
 
 A few years ago I adopted the habit of practicing a personal activity every day,
 or at least once a week when I'm busy.  I regularly go back and forth between
-pursuing new interests and rekindling old passions, but I always practice with
-dedication to learn long-lasting skills.
+pursuing new interests and rekindling old passions, but whatever the topic I
+always practice with dedication.
 
 The passion I originally had for [drawing](#fine_arts) quickly grew to [computer
 graphics](#computer_graphics), which in turn is the [reason why I discovered
-computer programming](https://github.com/Kachoc/CrowdEngine). I am currently also
-working hard to [learn Chinese](#chinese).
+computer programming](https://github.com/sonmarcho/CrowdEngine). Following a
+stint in China in 2019, I have also been working hard on [learning Chinese](#chinese).
 
 ## Fine Arts <a name="fine_arts"></a>
 
 I have always been fond of drawing but didn't practice with enough discipline
-when I was in middle and high school.
+when in middle and high school.
 Once a student at *École polytechnique*, I adopted a more regular practice by
 joining the fine arts association. I then spent most of my time experimenting
 and trying to use colors, and had a hard time finding a technique which suited
@@ -79,7 +79,7 @@ fragility of the result - I'm actually having a hard time storing my drawings.
        alt=""
        height="450"
        style="" />
-  <figcaption>Cat WIP on paper I prepared myself</figcaption>
+  <figcaption>Cat (work in progress) on paper<br> prepared with pumice stone powder</figcaption>
   </div>
 
   <p>
@@ -346,7 +346,7 @@ After a very long break, I recently hopped back on
 I particularly love playing with shader graphs to get interesting results. It
 reminds me of when I used to
 [program shaders in C++ and HLSL while in high
-school](https://github.com/Kachoc/CrowdEngine).
+school](https://github.com/sonmarcho/CrowdEngine).
 
 You can learn more about my experiments in this [blog post](/2021/01/19/old-town.html).
 

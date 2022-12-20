@@ -13,6 +13,22 @@ handshake) protocols. Handshake protocols are typically used to setup secure
 connexions between peers willing to communicate, similarly to TLS. The
 description of a protocol in the Noise DSL is called a "pattern".
 
+<p>
+<pre style="margin: 0">  IKpsk2:
+     <- s
+     ...
+     -> e, es, s, ss
+     <- e, ee, se, psk
+</pre>
+<div style="text-align: center">
+<figcaption>
+Description in the Noise DSL of the IKpsk2 protocol (or "pattern"), used by the
+<a href="https://www.wireguard.com/">Wireguard VPN</a>.
+A very similar protocol, IK, is used by WhatsApp.
+</figcaption>
+</div>
+</p>
+
 Protocol code can be quite low-level, leading to bugs which can compromise their
 security (e.g., see [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed)) and
 making such code a prime target for program verification.  Verifying one
@@ -55,15 +71,15 @@ instantiatiations which are readily available in the [github
 repository](https://github.com/Inria-Prosecco/noise-star) of the project. Those
 are of course a limited subset of what we cover: feel free to reach us if you
 want a specific instantiation of Noise\*. And if you want to know more about the
-specific details, you can have a look at the
-[paper](https://eprint.iacr.org/2022/607.pdf) we presented at S&P'22.
+specific details, you can have a look at our [S&P'22
+paper](https://eprint.iacr.org/2022/607.pdf).
 
 The project hit several difficulties, however, which revealed the limitations of
 our toolchain.
 
 First of all, F\* targets *intrinsic* proofs, by which we write code with
 annotations such as pre and post-conditions, assertions or lemma calls.  At
-type-checking time, F\* generates huge weakest preconditions (sets of proof
+type-checking time, F\* generates big weakest preconditions (sets of proof
 obligations) which it sends to the Z3 SMT solver to discharge (or fail to
 discharge, in which case we need to update the code to fix bugs, or better
 explain to Z3 why the code is indeed correct). The issue is that intrinsic
@@ -78,24 +94,22 @@ possible. Finally, intrinsic proofs are fundamentally non-modular, while
 projects require modularity as they grow bigger: for instance, one may want
 to verify a single function in several steps.
 
-A second problem we faced was reasoning about memory and aliasing. This
-was especially frustrating because memory management is quite simple in Noise\*,
-making one expect the memory reasoning to be straightforward. More
-specifically, reasoning about the disjointness of various elements in memory
-makes the context quickly saturate, especially in the last layers of the
-API, and acted as a formidable catalyzer of all the problems we faced with
-intrinsic proofs.
-
-Overall, the Low\* toolchain works very well to verify cryptographic primitives
-and protocols as demonstrated by the
+A second problem we faced was reasoning about memory and aliasing. This was
+especially frustrating because memory management is quite simple in Noise\*,
+making one expect the memory reasoning to be straightforward. More specifically,
+reasoning about the disjointness of various elements in memory makes the context
+quickly saturate, especially in the last layers of the API, and acted as a
+formidable catalyzer of all the problems we faced with intrinsic
+proofs. Overall, the Low\* toolchain is very well suited at verifying
+cryptographic primitives and protocols as demonstrated by the
 [Hacl\*](https://github.com/hacl-star/hacl-star) project: memory management is
 quite simple and in particular memory allocation is almost non-existent, the
 control-flow contains few branchings, the SMT solver is of great help when
-reasoning about non-linear arithmetic, etc. As a consequence, those problems
-were very tractable while we worked on the protocol code of Noise\*. They
-however quickly worsened as we moved up the stack through the various layers of
-the API, and as a consequence we decided to completely rethink our toolchain,
-leading us to the second part of my journey.
+reasoning about non-linear arithmetic, etc. As a consequence, we had a very
+smooth experience when working on the protocol code of Noise\*. In contrast, we
+quickly faced an accumulation of problems while moving up the stack through the
+various layers of the API, and as a consequence decided to completely rethink
+our toolchain, leading us to the second part of my journey.
 
 <a name="Aeneas"></a>
 ## Aeneas, and his little brother Charon
@@ -108,7 +122,8 @@ the proofs when the memory usage is *disciplined*? And actually, what does a
 answer this last question in a very interesting manner, by constraining the
 programmer in their use of memory to get memory safety while allowing for a very
 expressive language. We consequently decided to switch to Rust as our
-implementation language.
+implementation language, and leverage its type system to simplify the proof
+obligations.
 
 This idea of leveraging the Rust type system to simplify memory reasoning is not
 new, and has been exploited for several years by other projects like
@@ -137,9 +152,9 @@ one can prove panic freedom and functional correctness (see our [ICFP
 paper](https://dl.acm.org/doi/10.1145/3547647), or its [long
 version](https://arxiv.org/abs/2206.07185)), but also security guarantees like
 authentication and confidentiality as was done with Noise\*, and potentially
-more. For now, Aeneas generates pure models for F\* and
-[Coq](https://coq.inria.fr/), and we are working on additional backends for
-[Lean](https://leanprover.github.io/) and
+more. For now, Aeneas generates pure models for
+[F\*](https://www.fstar-lang.org/) and [Coq](https://coq.inria.fr/), and we are
+working on additional backends for [Lean](https://leanprover.github.io/) and
 [HOL4](https://hol-theorem-prover.org/).
 
 Aeneas relies on [Charon](https://github.com/AeneasVerif/charon) to retrieve
@@ -154,12 +169,14 @@ contact us if you have any questions.
 
 ### F\* Extended Mode
 
-The [F\* extended mode](https://github.com/Kachoc/fstar-extended-mode) is a side project I did at
-some point to improve the interaction with F\*, and in particular make the user less blind when
-writing proofs by inserting information about the context directly into their code. The principle is
-very simple: by using the proper commands, one could introduce the pre and post-conditions of an
-(effectful) function call, unfold definitions or split conjunctions in assertions. I merged the
-F\* meta code necessary to compute this information to the F\* main branch, but for some reason I
-never merged the elisp code to the [F\*-mode](https://github.com/FStarLang/fstar-mode.el) repo. I
+The [F\* extended mode](https://github.com/sonmarcho/fstar-extended-mode) is a side
+project I did at some point to improve the interaction with F\*, and in
+particular make the user less blind when writing proofs by inserting information
+about the context directly into their code. The principle is very simple: by
+calling dedicated commands, one could introduce the pre and post-conditions of
+an (effectful) function call, unfold definitions or split conjunctions in
+assertions. I merged the F\* meta code necessary to compute this information to
+the F\* main branch, but for some reason I never took the time to merge the
+elisp code into the [F\*-mode](https://github.com/FStarLang/fstar-mode.el) repo. I
 may find the motivation to do so in the future provided I get enoug traction.
 
