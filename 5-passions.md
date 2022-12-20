@@ -338,7 +338,7 @@ After a very long break, I recently hopped back on
      alt=""
      width="500"
      style="float: center" />
-<figcaption>Procedural generation experimentations.
+<figcaption>Procedural generation experiments
 </figcaption>
 </div>
 <div style="clear: both"></div>
