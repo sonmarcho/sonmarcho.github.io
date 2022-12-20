@@ -368,7 +368,7 @@ or [there](/2022/12/26/sculpted-head.html).
 I lived in Shanghai in 2019, which allowed me to discover the Chinese culture
 and more specifically the Chinese language. I fell in love with this language,
 and since then have been practicing with diligence. My dream would be to have
-the ability of enjoying Chinese litterature in Chinese, and by enjoying I mean
+the ability to enjoy Chinese literature in Chinese, and by enjoy I mean
 not only understand the text but actually grasp its subtleties and relish the style in
 which it is written, all things which are lost in translation. This goal is of
 course difficult, maybe to the point of being unattainable; it is
@@ -399,8 +399,8 @@ consequence felt quite different: you have a different perception of time,
 then. This feeling of discovery is also something I experienced by learning the
 language. Of course, one always learns things by practicing foreign languages, but
 in the case of Chinese, because the sentences and their meanings are expressed
-in a so radically different manner, I immediately had the feeling I needed to
-switch my way of thinking whenever going from French to Chinese and vice versa.
+in such a radically different manner, I immediately had the feeling I needed to
+change my way of thinking whenever going from French to Chinese and vice versa.
 
 For instance, the Chinese language can be imprecise: a lot depends on the
 context. As a result, translating from French to Chinese is doomed to fail from
@@ -423,13 +423,13 @@ complete in a sense, so they should be able to express the same things, right?
 Another simple example is the grammar. I've heard a lot that Chinese doesn't
 have a grammar and I find this saying very wrong: it is not because a language
 doesn't require to conjugate verbs that it doesn't have a complex and subtle
-grammar (I actually posess a 400 pages book just about Chinese grammar - [this
+grammar (I actually own a 400 pages book just about Chinese grammar - [this
 one](https://g.co/kgs/97M3bd)).
 
 #### Modifying the meaning
 Something fun about the Chinese grammar is the modifiers. The most common one is
 的 ("de" in pinyin, the official romanization system for Mandarin Chinese), which
-allows to add information about a noun. For instance, in Chinese, "my friend"
+allows adding information about a noun. For instance, in Chinese, "my friend"
 would be translated to 我 <b>的</b> 朋友 (wo de peng-you - omitting the tones: see
 below). Note that I add spaces for clarity purposes; the characters should be
 written stuck to each other like this: 我的朋友.
@@ -483,7 +483,7 @@ One last fun thing I really want to mention about the grammar is the
 quantifiers: whenever you quantify an object ("one cat", "two cats", etc.) you
 have to use a quantifier between the number and the quantified object. For
 instance, "one" is 一 / yi, and "cat" is 猫 / mao. One wouldn't simply say 一猫
-/ yi mao / "one cat": there misses a quantifier. Generally speaking, it is
+/ yi mao / "one cat": a quantifier is missing. Generally speaking, it is
 possible to use 个 / ge:
 
 <blockquote style="font-style: normal">
@@ -492,9 +492,8 @@ yi <b>ge</b> mao<br>
 "one <b>[generic quantifier]</b> cat"
 </blockquote>
 
-We can however be more
-specific (and being specific helps the understanding!): for instance 只 / zhi is
-used for animals:
+We can however be more specific, and being specific helps us to be understood.
+For instance 只 / zhi is used for animals:
 
 <blockquote style="font-style: normal">
 一 <b>只</b> 猫<br>
@@ -557,7 +556,7 @@ moving my hand up and down to accompany the tones while speaking Chinese...
 ### Writing Chinese
 
 Who could speak about Chinese without mentioning the Chinese characters? There
-truely is beauty in a Chinese character, and a powerful evocative
+truly is beauty in a Chinese character, and a powerful evocative
 power. This is especially striking when looking at traditional Chinese
 characters, that is to say characters from before the 1952 simplification in
 mainland China, and which are still in use in some places like Taiwan.  For
@@ -597,19 +596,17 @@ decompose it, we get:
 In short: **learning is for a child to catch the stars with their hands**...
 
 ### Some notes about learning Chinese
-While it is easy to learn Chinese in China, I had to adapt a bit once I was back in
-France to build a proper learning environment. My way of doing it: Chinese class
-once a week, tandems with some Chinese partners at
-least twice a week, a bit of reading,
-and Chinese TV series when I have spare time.
-I used to learn vocabulary with the flash cards application
-[Anki](https://apps.ankiweb.net/), but have stopped because it didn't prove
-that efficient (I think it all depends on your goals: flash cards can be very
-helpful when preparing an examination, for instance).
-I always focus on tandems when I don't have much time, because I think
-practicing conversation is by far the most useful, and it is also a lot of fun.
-Note that it is easy to find partners
-on applications like [Tandem](https://www.tandem.net).
+While it is easy to learn Chinese in China, I had to adapt a bit once I was back
+in France to build a proper learning environment. My way of doing it: Chinese
+class once a week, tandems with some Chinese partners at least twice a week, a
+bit of reading, and Chinese TV series when I have spare time. I used to learn
+vocabulary with the flash card application [Anki](https://apps.ankiweb.net/),
+but have stopped because it didn't prove to be that efficient. This probably
+depends on your goals, though, as flash cards can be very helpful when preparing
+for an examination for instance. I always focus on tandems when I don't have
+much time, because I think practicing conversation is by far the most useful,
+and it is also a lot of fun. Note that it is easy to find partners on
+applications like [Tandem](https://www.tandem.net).
 
 About TV series, I started with
 [致我们单纯的小美好](https://www.youtube.com/watch?v=7I1SPKwTXJ0)
@@ -619,7 +616,7 @@ I'm usually not fond of sickeningly sweet and romantic dramas like
 least it is easy to understand so I recommend it for a start.
 I definitely recommend 大江大河.
 Besides, I also heard a lot about the costume drama
-[琅琊榜](https://youtu.be/xEdMFMLe3_o), which had a lot success in China due to
+[琅琊榜](https://youtu.be/xEdMFMLe3_o), which had a lot of success in China due to
 its rich and complex plot. It is good to watch (I love the
 [credits song](https://youtu.be/qzB1yoGgcoo), by the way), but not that useful to 
 study Chinese unless you want to learn a lot of old and specific terms, as well as all
