@@ -486,7 +486,7 @@ you replace 过 with 了 / <i>le</i>, which expresses a change of situation and
 consequently often marks past actions, the meaning of the sentence changes:
 
 <blockquote style="font-style: normal">
-我在上海见<b>了</b>的朋友。<br>
+我 在 上海 见<b>了</b> 的 朋友。<br>
 wo zai shang-hai jian-le de peng-you. <br>
 "The/a friend I saw in Shanghai". (say, I saw a friend when I went there last
 week)
