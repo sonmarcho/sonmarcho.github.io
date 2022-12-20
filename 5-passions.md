@@ -367,9 +367,9 @@ or [there](/2022/12/26/sculpted-head.html).
 
 I lived in Shanghai in 2019, which allowed me to discover the Chinese culture
 and more specifically the Chinese language. I fell in love with this language,
-and since then have been practicing with diligence. My dream would be to have
+and since then have been practicing with diligence. My dream is to have
 the ability to enjoy Chinese literature in Chinese, and by enjoy I mean
-not only understand the text but actually grasp its subtleties and relish the style in
+not only understand the text but also grasp its subtleties and relish the style in
 which it is written, all things which are lost in translation. This goal is of
 course difficult, maybe to the point of being unattainable; it is
 nonetheless the resolution by which I abide when practicing.
@@ -377,8 +377,8 @@ nonetheless the resolution by which I abide when practicing.
 One of the main reasons why I went to Shanghai is that I had then lived almost
 all my life in France and was looking for a radically different experience.
 China then seemed an obvious good choice, so I went. I initially hadn't intended
-to learn Chinese because it is so hard, until a friend who was also going
-convinced me to attend a Chinese class.
+to learn Chinese because it is such a difficult language, until a friend who was
+also going convinced me to attend a Chinese class.
 
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
 <img src="assets/images/chinese-characters.jpg"
@@ -395,9 +395,9 @@ Chinese in kilometers of copied characters
 What I really loved about going to China is that the country and its culture are
 so different from what I had known, and there is so much to discover, that I was
 immediately destabilized. Every day brought its lot of discoveries and as a
-consequence felt quite different: you have a different perception of time,
+consequence felt quite different: one has a different perception of time,
 then. This feeling of discovery is also something I experienced by learning the
-language. Of course, one always learns things by practicing foreign languages, but
+language. Of course, we always learn things by practicing foreign languages, but
 in the case of Chinese, because the sentences and their meanings are expressed
 in such a radically different manner, I immediately had the feeling I needed to
 change my way of thinking whenever going from French to Chinese and vice versa.
@@ -408,8 +408,8 @@ the very start. My Chinese teacher in Shanghai and I had countless discussions
 of the form:
 
 <blockquote style="font-style: normal">
-- How would you say this sentence in Chinese?<br>
-- You would say such and such.<br>
+- How would you say [some sentence] in Chinese?<br>
+- You would say [such and such].<br>
 - But this doesn't mean the same thing at all. How would you preserve the
   meaning?<br>
 - Well, you <i>can't</i>.
@@ -418,38 +418,54 @@ of the form:
 It actually drove me a bit crazy at first, because to me all languages are Turing
 complete in a sense, so they should be able to express the same things, right?
 
-### A few words about the grammar
+### A few words about the Mandarin grammar
 
 Another simple example is the grammar. I've heard a lot that Chinese doesn't
-have a grammar and I find this saying very wrong: it is not because a language
+have a grammar and I find this saying very wrong. It is not because a language
 doesn't require to conjugate verbs that it doesn't have a complex and subtle
-grammar (I actually own a 400 pages book just about Chinese grammar - [this
-one](https://g.co/kgs/97M3bd)).
+grammar, and I actually own a 400 pages book just about the Chinese one ([this
+book](https://g.co/kgs/97M3bd)).
 
 #### Modifying the meaning
 Something fun about the Chinese grammar is the modifiers. The most common one is
-的 ("de" in pinyin, the official romanization system for Mandarin Chinese), which
-allows adding information about a noun. For instance, in Chinese, "my friend"
-would be translated to 我 <b>的</b> 朋友 (wo de peng-you - omitting the tones: see
-below). Note that I add spaces for clarity purposes; the characters should be
-written stuck to each other like this: 我的朋友.
+的, written "de" in pinyin, the official romanization system for Mandarin
+Chinese. Note that pinyin uses accents to denote tones, but I will omit them for
+simplicity: see the dedicated section below for more explanations. 的 allows
+adding information about a noun. For instance, in Chinese, "my friend" would be
+translated to the following, where I add spaces for the purpose of clarity
+(words are normally written stuck to each other):
 
-我 (wo) is "me" or "I", and 朋友
-(peng-you) means "friend". The interesting point is that 的 really doesn't
-express possession in the first place: in the previous sentence it simply
-expresses the fact that 朋友 / peng-you / "friend" is characterized by 我 / wo /
-"me". In this context, the sentence specifically means "my friend". But this
-modifier can be used to add an adjective to a noun (again, it is all about
-*characterization*): for instance you can use 好 / hao / "good" to characterize a
-friend: 好 的 朋友 / hao de peng-you / "a good friend" (and no, there are no
-articles in Chinese). But you can also characterize this friend by the fact that
-you met him in Shanghai, in the sense that you became friend with him while
-in Shanghai:
+<blockquote style="font-style: normal">
+我 <b>的</b> 朋友<br>
+wo <b>de</b> peng-you<br>
+"my friend"
+</blockquote>
+
+我 / <i>wo</i> is "me" or "I", and 朋友 / <i>peng-you</i> means "friend". The
+interesting point is that 的 really doesn't express possession in the first
+place: in the previous sentence it simply expresses the fact that 朋友 /
+<i>peng-you</i> / "friend" is characterized by 我 / <i>wo</i> / "me". In this
+context, the sentence specifically means "my friend". But it is possible to use
+的 to modify a noun with an adjective: again, it is all about
+*characterization*.
+
+For instance you can use 好 / <i>hao</i> / "good" to characterize a friend:
+
+<blockquote style="font-style: normal">
+好 <b>的</b> 朋友<br>
+hao <b>de</b> peng-you<br>
+"(a) good friend"<br>
+</blockquote>
+
+
+You can even characterize this friend by the fact that you met him in
+Shanghai, in the sense that you became friend with him while there. This is a
+bit the equivalent of a subordinate clause:
 
 <blockquote style="font-style: normal">
 我 <b>的</b> 在 上海 见过 <b>的</b> 朋友。<br>
 wo <b>de</b> zai shang-hai jian-guo <b>de</b> peng-you. <br>
-I <b>[characterizes]</b> at Shanghai meet <b>[characterizes]</b> friend.
+"I <b>[characterizes]</b> at Shanghai meet <b>[characterizes]</b> friend".
 </blockquote>
 
 Omitting the first 的 to make the sentence lighter:
@@ -460,14 +476,14 @@ wo zai shang-hai jian-guo <b>de</b> peng-you. <br>
 "The/a friend I met in Shanghai". <br>
 </blockquote>
 
-And here you can notice another important thing, which is that the place (在上海
-/ zai shang-hai / "at Shanghai") preceeds the verb (见过 / jian-guo / "meet"):
-in Chinese we start with the background (time then place) then talk about the
-details (action, etc.). And in 见过 / jian-guo, we have a verb 见 / jian / "to
-meet" concatenated to a suffix 过 / guo, which expresses an experience (like in:
-"once in my life I have been in China"). If you replace 过 with 了 / le, which
-expresses a change of situation and consequently often marks past actions, the
-meaning of the sentence changes:
+And here there is something else to notice, which is that the place (在上海
+/ <i>zai shang-hai</i> / "at Shanghai") preceeds the verb (见过 /
+<i>jian-guo</i> / "meet"): in Chinese we start with the background (time then
+place) then talk about the details (action, etc.). And in 见过 / <i>jian-guo</i>, we
+have a verb 见 / <i>jian</i> / "to meet" concatenated to a suffix 过 / <i>guo</i>, which
+expresses an experience, like in: "once in my life I have been in China". If
+you replace 过 with 了 / <i>le</i>, which expresses a change of situation and
+consequently often marks past actions, the meaning of the sentence changes:
 
 <blockquote style="font-style: normal">
 我在上海见<b>了</b>的朋友。<br>
@@ -476,15 +492,17 @@ wo zai shang-hai jian-le de peng-you. <br>
 week)
 </blockquote>
 
-And we could go on and on and on like this...
+Also, I explained above that we use 的 to modify *nouns*. There actually exists
+a modifier for verbs and adjectives, to describe the manner or degree: 得 /
+<i>de</i>. And we could go on and on and on like this...
 
 #### Quantifying objects
 One last fun thing I really want to mention about the grammar is the
 quantifiers: whenever you quantify an object ("one cat", "two cats", etc.) you
 have to use a quantifier between the number and the quantified object. For
-instance, "one" is 一 / yi, and "cat" is 猫 / mao. One wouldn't simply say 一猫
-/ yi mao / "one cat": a quantifier is missing. Generally speaking, it is
-possible to use 个 / ge:
+instance, "one" is 一 / <i>yi</i>, and "cat" is 猫 / <i>mao</i>. One wouldn't
+simply say 一猫/ <i>yi mao</i> / "one cat": a quantifier is missing. Generally
+speaking, it is possible to use 个 / <i>ge</i>:
 
 <blockquote style="font-style: normal">
 一 <b>个</b> 猫<br>
@@ -492,8 +510,9 @@ yi <b>ge</b> mao<br>
 "one <b>[generic quantifier]</b> cat"
 </blockquote>
 
-We can however be more specific, and being specific helps us to be understood.
-For instance 只 / zhi is used for animals:
+We can however be more specific, and being specific helps us to be understood:
+the quantified noun can be ambiguous. For instance 只 / <i>zhi</i> is
+used for animals:
 
 <blockquote style="font-style: normal">
 一 <b>只</b> 猫<br>
@@ -502,7 +521,7 @@ yi <b>zhi</b> mao<br>
 </blockquote>
 
 For long objects
-like roads we can use 条 / tiao:
+like roads we can use 条 / <i>tiao</i>:
 
 <blockquote style="font-style: normal">
 一 <b>条</b> 路<br>
@@ -510,7 +529,7 @@ yi <b>tiao</b> lu<br>
 "one <b>[quantifier for long objects]</b> road"
 </blockquote>
 
-It also applies to fish for instance (most fish are long...):
+It applies to fish, as most of them are long:
 
 <blockquote style="font-style: normal">
 一 <b>条</b> 鱼<br>
@@ -519,7 +538,7 @@ yi <b>tiao</b> yu<br>
 </blockquote>
 
 There is also a quantifier for something we hold with the hand: 把 /
-ba. For instance:
+<i>ba</i>. For instance:
 
 <blockquote style="font-style: normal">
 一 <b>把</b> 伞<br>
@@ -536,8 +555,9 @@ tonal language, meaning you constantly have to change your tone pitch when
 speaking: depending on the sound you pronounce, your voice has to go up, down or
 stay flat, and the way you do it *does* change the meaning. I omitted it above,
 but in pinyin we put accents on some letters to express the tones. For instance,
-we have (follow the direction of the accents: the first one is flat, the second
-one goes up, etc.):
+there are the following words in Chinese, where you should follow the direction
+of the accents for the pronunciation (the first one is flat, the second one goes
+up, etc.):
 
 <blockquote style="font-style: normal">
 逼 / bī / "to force" (someone to do something) <br>
