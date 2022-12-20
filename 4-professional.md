@@ -3,12 +3,26 @@ layout: page
 title: "Past Experience"
 ---
 
+## Amazon Web Service --- Summer 2022
+
+During this research internship at Amazon Web Service in Seattle, I worked on
+formalizing the semantics of the [Dafny](https://dafny.org/) verification
+language, and verifying compiler transformations applied on Dafny programs.
+This work was carried in Dafny itself. The end goal is to bootstrap the Dafny
+compiler, in order to have a verified compilation pipeline from Dafny to its
+various target languages (Java, C#, Go, etc.). The result of this work is in the
+following [repository](https://github.com/dafny-lang/compiler-bootstrap), and
+there is a blog post coming.
+
 ## Microsoft Research --- Summer 2021
 
 During this research internship at Microsoft Research, I explored the
-verification of Rust programs. This eventually led to my current project, Aeneas,
-a verification framework which works by translating safe Rust programs to pure
-lambda calculus.
+verification of Rust programs. This eventually led to my current project,
+[Aeneas](https://github.com/AeneasVerif/aeneas), a verification framework which
+generates pure models from safe Rust programs, for the purpose of verifying
+those programs.  You can learn more [here](2-projects.md#Aeneas), or read our
+paper ([ICFP](https://dl.acm.org/doi/10.1145/3547647), [long
+version](https://arxiv.org/abs/2206.07185)).
 
 ## Carrefour China - 家乐福中国 --- 2018-2019
 
