@@ -345,7 +345,10 @@ After a very long break, I recently hopped back on
 
 I particularly love playing with shader graphs to get interesting results. It
 reminds me of when I used to
-[program shaders in C++ and HLSL while in high school](https://github.com/Kachoc/CrowdEngine).
+[program shaders in C++ and HLSL while in high
+school](https://github.com/Kachoc/CrowdEngine).
+
+You can learn more about my experiments in this [blog post](/2021/01/19/old-town.html).
 
 ## Chinese <a name="chinese"></a>
 I lived in Shanghai in 2019, which allowed me to discover the Chinese culture
