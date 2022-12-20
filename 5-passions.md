@@ -426,8 +426,9 @@ doesn't require to conjugate verbs that it doesn't have a complex and subtle
 grammar (I actually posess a 400 pages book just about Chinese grammar - [this
 one](https://g.co/kgs/97M3bd)).
 
+#### Modifying the meaning
 Something fun about the Chinese grammar is the modifiers. The most common one is
-的("de" in pinyin, the official romanization system for Mandarin Chinese), which
+的 ("de" in pinyin, the official romanization system for Mandarin Chinese), which
 allows to add information about a noun. For instance, in Chinese, "my friend"
 would be translated to 我 <b>的</b> 朋友 (wo de peng-you - omitting the tones: see
 below). Note that I add spaces for clarity purposes; the characters should be
@@ -477,6 +478,7 @@ week)
 
 And we could go on and on and on like this...
 
+#### Quantifying objects
 One last fun thing I really want to mention about the grammar is the
 quantifiers: whenever you quantify an object ("one cat", "two cats", etc.) you
 have to use a quantifier between the number and the quantified object. For
@@ -554,12 +556,13 @@ moving my hand up and down to accompany the tones while speaking Chinese...
 
 ### Writing Chinese
 
-Finally, I can't speak about Chinese without mentionning the Chinese
-characters. There truely is beauty in a Chinese character, and a very powerful
-evocative power. For instance, the traditional character for 学 / xué / "to
-learn" is 學 (mainland China adopted a simplified set of characters in 1952,
-while the traditional characters are still in use in some places like Taiwan). If
-we decompose it, we get:
+Who could speak about Chinese without mentioning the Chinese characters? There
+truely is beauty in a Chinese character, and a powerful evocative
+power. This is especially striking when looking at traditional Chinese
+characters, that is to say characters from before the 1952 simplification in
+mainland China, and which are still in use in some places like Taiwan.  For
+instance, the traditional character for 学 / xué / "to learn" is 學. If we
+decompose it, we get:
 
 <p><div style="text-align: center; margin: 0; caption-side: bottom">
 <table cellspacing="0" style="border-collapse: collapse">
