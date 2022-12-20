@@ -356,6 +356,35 @@ I lived in Shanghai in 2019, which allowed me to discover the Chinese culture
 and, more specifically, the Chinese language. I fell in love with this language,
 and since then have been practicing with diligence.
 
+One of the main reason why I went to Shanghai is that I had then lived almost
+all my life in France and was looking for a radically different experience. As
+China then seemed an obvious good choice, I went then. I initially didn't intend
+to learn Chinese because it is so hard, until a friend who was also going
+convinced me to attend a Chinese class. I immediately loved it.
+
+What I really loved about going to China, and which would probably have been
+true of any country different enough from France, is that the country and its
+culture are so different from what I've known that I was immediately
+destabilized. Every day brought its lot of discoveries and as a consequence felt
+different. In a sense, in such an environment time feels more intense; this is a
+feeling I enjoyed and that I wish to experience again.
+
+
+### Some notes about learning Chinese
+While it is easy to learn Chinese in China, I had to adapt a bit once I was back in
+France to build a proper learning environment. My way of doing it: Chinese class
+once a week, tandems with some Chinese partners at
+least twice a week, a bit of reading,
+and Chinese TV series when I have spare time.
+I used to learn vocabulary with the flash cards application
+[Anki](https://apps.ankiweb.net/), but have stopped because it didn't prove
+that efficient (I think it all depends on your goals: flash cards can be very
+helpful when preparing an examination, for instance).
+I always focus on tandems when I don't have much time, because I think
+practicing conversation is by far the most useful, and it is also a lot of fun.
+Note that it is easy to find partners
+on applications like [Tandem](https://www.tandem.net).
+
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
 <img src="assets/images/chinese-characters.jpg"
      alt=""
@@ -367,19 +396,6 @@ Chinese in kilometers of copied characters
 </figcaption>
 </div>
 <div style="clear: both"></div>
-
-While it is easy to learn Chinese in China, I had to adapt a bit once I was back in
-France to build a proper learning environment. My way of doing it: Chinese class
-once a week, tandems with some Chinese partners at
-least twice a week, a bit of reading,
-and Chinese TV series when I have spare time.
-I used to learn vocabulary with the flash cards application
-[Anki](https://apps.ankiweb.net/), but have stopped because it proved quite
-inefficient.
-I always focus on tandems when I don't have much time, because I think
-practicing conversation is by far the most useful, and it is also a lot of fun.
-Note that it is easy to find partners
-on applications like [Tandem](https://www.tandem.net).
 
 About TV series, I started with
 [致我们单纯的小美好](https://www.youtube.com/watch?v=7I1SPKwTXJ0)
