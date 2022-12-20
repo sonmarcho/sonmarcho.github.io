@@ -3,6 +3,9 @@ layout: page
 title: "Passions & Interests"
 ---
 
+<!-- Small shortcut -->
+{% assign images = "/assets/images/" %}
+
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
 <a href="assets/images/pastel-cat.jpg">
 <img src="assets/images/pastel-cat-cropped.jpg" alt="Cat Pastel"
@@ -361,23 +364,188 @@ You can learn more about my experiments [here](/2021/01/19/old-town.html)
 or [there](/2022/12/26/sculpted-head.html).
 
 ## Chinese <a name="chinese"></a>
+
 I lived in Shanghai in 2019, which allowed me to discover the Chinese culture
-and, more specifically, the Chinese language. I fell in love with this language,
-and since then have been practicing with diligence.
+and more specifically the Chinese language. I fell in love with this language,
+and since then have been practicing with diligence. My dream would be to have
+the ability of enjoying Chinese litterature in Chinese, and by enjoying I mean
+not only understand the text but actually grasp its subtleties and relish the style in
+which it is written, all things which are lost in translation. This goal is of
+course difficult, maybe to the point of being unattainable; it is
+nonetheless the resolution by which I abide when practicing.
 
-One of the main reason why I went to Shanghai is that I had then lived almost
-all my life in France and was looking for a radically different experience. As
-China then seemed an obvious good choice, I went then. I initially didn't intend
+One of the main reasons why I went to Shanghai is that I had then lived almost
+all my life in France and was looking for a radically different experience.
+China then seemed an obvious good choice, so I went. I initially hadn't intended
 to learn Chinese because it is so hard, until a friend who was also going
-convinced me to attend a Chinese class. I immediately loved it.
+convinced me to attend a Chinese class.
 
-What I really loved about going to China, and which would probably have been
-true of any country different enough from France, is that the country and its
-culture are so different from what I've known that I was immediately
-destabilized. Every day brought its lot of discoveries and as a consequence felt
-different. In a sense, in such an environment time feels more intense; this is a
-feeling I enjoyed and that I wish to experience again.
+What I really loved about going to China is that the country and its culture are
+so different from what I've known, and there is so much to discover, that I was
+immediately destabilized. Every day brought its lot of discoveries and as a
+consequence felt quite different: you have a different perception of time,
+then. This feeling of discovery is also something I experienced by learning the
+language. Of course, one always learns things by practicing foreign languages, but
+in the case of Chinese, because the sentences and their meanings are expressed
+in a so radically different manner, I immediately had the feeling of making my
+brain switch mode whenever going from French to Chinese and vice versa.
 
+For instance, the Chinese language can be imprecise: a lot depends on the
+context. As a result, translating from French to Chinese is doomed to fail from
+the very start. I had countless discussions with my Chinese teacher in Shanghai
+of the form:
+
+<blockquote style="font-style: normal">
+- How would you say this sentence in Chinese?<br>
+- You would say such and such.<br>
+- But this doesn't mean the same thing at all. How would you preserve the
+  meaning?<br>
+- Well, you <i>can't</i>.
+</blockquote>
+
+It actually drove me a bit crazy at first, because to me all languages are Turing
+complete in a sense, so they should be able to express the same things, right?
+
+<div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
+<img src="assets/images/chinese-characters.jpg"
+     alt=""
+     width="500"
+     style="" />
+<figcaption>
+Frankly, I think we should measure the time spent on learning
+Chinese in kilometers of copied characters
+</figcaption>
+</div>
+<div style="clear: both"></div>
+
+Another simple example is grammar. I've heard a lot that Chinese doesn't have grammar
+and I find this saying very wrong: it is not because a language doesn't require
+to conjugate verbs that it doesn't have a complex and subtle grammar (I
+actually posess a 400 pages book just about Chinese grammar - [this
+one](https://g.co/kgs/97M3bd)).
+
+Something fun about the Chinese grammar is the modifiers. The most common one is 的
+("de" in pinyin, the official romanization system for Mandarin Chinese), which
+allows to add information about a noun. For instance, in Chinese, "my friend"
+would be translated to 我 的 朋友 (wo de peng-you - omitting the tones: see
+below - also note that I add spaces for clarity purposes;
+the characters should be written stuck to each other like this: 我的朋友).
+
+我 (wo) is "me" or "I", and 朋友
+(peng-you) means "friend". The interesting point is that 的 really doesn't
+express possession in the first place: in the previous sentence it simply
+expresses the fact that 朋友 / peng-you / "friend" is characterized by 我 / wo /
+"me". In this context, the sentence specifically means "my friend". But this
+modifier can be used to add an adjective to a noun (again, it is all about
+*characterization*): for instance you can use 好 / hao / "good" to characterize a
+friend: 好 的 朋友 / hao de peng-you / "a good friend" (and no, there are no
+articles in Chinese). But you can also characterize this friend by the fact that
+you met him in Shanghai:
+
+<blockquote style="font-style: normal">
+我 的 在 上海 见过 的 朋友。<br>
+wo de zai shang-hai jian-guo de peng-you. <br>
+I (characterizes) at Shanghai meet (characterizes) friend.
+</blockquote>
+
+Omitting one of the 的 to make it lighter:
+
+<blockquote style="font-style: normal">
+我 在 上海 见过 的 朋友。<br>
+wo zai shang-hai jian-guo de peng-you. <br>
+"The/a friend I met in Shanghai". <br>
+</blockquote>
+
+And here you can notice another important thing, which is that the place (在上海
+/ zai shang-hai / "at Shanghai") preceeds the verb (见过 / jian-guo / "meet"): in
+Chinese we start with the background (time then place) then talk about the
+details (action, etc.). And in 见过 / jian-guo, the verb is 见 / jian / "to meet" with the
+suffix 过 / guo, which expresses an experience (like in: "once in my life I have been
+in China"). If you replace 过 with 了 / le, which expresses a change of situation
+and consequently often marks past actions, the meaning of the sentence changes:
+
+<blockquote style="font-style: normal">
+我在上海见了的朋友。<br>
+wo zai shang-hai jian-le de peng-you. <br>
+"The/a friend I saw in Shanghai". (say, I saw a friend when I went there last
+week)
+</blockquote>
+
+And we could go on and on and on like this...
+
+One last fun thing I really want to mention about the grammar is the
+quantifiers: whenever you quantify an object ("one cat", "two cats", etc.) you
+have to use a quantifier between the number and the quantified object. For
+instance, "one" is 一 / yi, and "cat" is 猫 / mao. One wouldn't simply say 一猫
+/ yi mao / "one cat": there misses a quantifier. Generally speaking, it is
+possible to use 个 / ge: 一个猫 / yi ge mao / "one cat". We can however be more
+specific (and being specific helps the understanding!): for instance 只 / zhi is
+used specifically for animals: 一只猫 / yi zhi mao / "one cat". For long objects
+like roads we can use 条 / tiao: 一条路 / yi tiao lu / "one road". It also
+applies to fish for instance (most fish are long...): 一条鱼 / yi tiao yu / "one
+fish". There is also a quantifier for something we hold with the hand: 把 /
+ba. For instance: 一把伞 / yi ba san / "one umbrella".
+
+Moving away from the grammar, the pronunciation is interesting: Chinese is a
+tonal language, meaning the variations of your voice pitch are important:
+depending on the sound you pronounce, your voice has to go up, down or stay
+flat, and the way you do it *does* change the meaning. I omitted it above, but
+in pinyin we put accents on some letters to express the tones. For instance, we
+have (follow the direction of the accents: the first one is flat, the second one
+goes up, etc.):
+
+<blockquote style="font-style: normal">
+逼 / bī / "to force" (someone to do something) <br>
+鼻 / bí / "nose" <br>
+笔 / bǐ / "pencil" <br>
+币 / bì / "money" (like in the Chinese currency "RMB": 人民币 / rén mín bì / "the people's money")<br>
+</blockquote>
+
+Note that above I actually listed the four Chinese tones, in order: first tone
+is flat, second tone goes up, third tone goes down then up, fourth tone goes
+down. When a Chinese speaker does pay attention to the tones, they really add
+musicality to the language. On my side, I have to admit I found them quite hard
+to accomodate at the beginning: it took me a while to stop nodding or at least
+moving my hand up and down to accompany the tones while speaking Chinese...
+
+Finally, I can't speak about Chinese without mentionning the Chinese
+characters. There truely is beauty in a Chinese character, and a very powerful
+evocative power. For instance, the traditional character for 学 / xué / "to
+learn" is 學 (mainland China adopted a simplified set of characters in 1952,
+while the traditional characters are still in use in some places like Taiwan). If
+we decompose it, we get:
+
+<p><div style="text-align: center; margin: 0; caption-side: bottom">
+<table cellspacing="0" style="border-collapse: collapse">
+<tr style="background:rgba(0,0,0,0);">
+  <td style="text-align: center">
+    <img src="{{images}}xue-hands.png" alt="character xue" title="character xue"
+         width="200"/>
+    <figcaption>A pair of hands</figcaption>
+  </td>
+  <td style="text-align: center">
+    <img src="{{images}}xue-stars.png" alt="character xue" title="character xue"
+         width="200"/>
+    <figcaption>The stars</figcaption>
+  </td>
+</tr>
+<tr style="background:rgba(0,0,0,0);">
+  <td style="text-align: center">
+    <img src="{{images}}xue-cover.png" alt="character xue" title="character xue"
+         width="200"/>
+    <figcaption>A cover</figcaption>
+  </td>
+  <td style="text-align: center">
+    <img src="{{images}}xue-child.png" alt="character xue" title="character xue"
+         width="200"/>
+    <figcaption>A child</figcaption>
+  </td>
+</tr>
+<caption>The traditional character xué / "to learn"</caption>
+</table>
+</div></p>
+
+In short: **learning is for a child to catch the stars with their hands**...
 
 ### Some notes about learning Chinese
 While it is easy to learn Chinese in China, I had to adapt a bit once I was back in
@@ -393,18 +561,6 @@ I always focus on tandems when I don't have much time, because I think
 practicing conversation is by far the most useful, and it is also a lot of fun.
 Note that it is easy to find partners
 on applications like [Tandem](https://www.tandem.net).
-
-<div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
-<img src="assets/images/chinese-characters.jpg"
-     alt=""
-     width="500"
-     style="" />
-<figcaption>
-Frankly, I think we should measure the time spent on learning
-Chinese in kilometers of copied characters
-</figcaption>
-</div>
-<div style="clear: both"></div>
 
 About TV series, I started with
 [致我们单纯的小美好](https://www.youtube.com/watch?v=7I1SPKwTXJ0)
@@ -426,7 +582,7 @@ really love his books. If you don't know where to start, I recommend his short
 novel *The Wandering Earth* (流浪地球 - don't watch the movie).
 Reading proved to be my most efficient way of acquiring vocabulary.
 As finding Chinese books can be difficult outside of China
-and importing them is quite expensive, I buy ebooks on my Kobo reader.
+and importing them is quite expensive, I buy/download ebooks for my Kobo reader.
 Even online, I sometimes have trouble finding mainland books and thus often end
 up buying the Taiwanese version (i.e.: with traditional characters),
 but as I intend to learn calligraphy I guess it is for the best...
