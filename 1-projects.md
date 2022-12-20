@@ -159,7 +159,7 @@ working on additional backends for [Lean](https://leanprover.github.io/) and
 
 Aeneas relies on [Charon](https://github.com/AeneasVerif/charon) to retrieve
 code from the Rust compiler. Charon is a driver which retrieves Rustc's output
-(in particular, the generated MIR)
+(more precisely, the generated MIR)
 and translates it to an intermediate language we called LLBC (Low Level Borrow
 Calculus - an "easy-to-use" version of MIR in practice). Charon is independent of Aeneas and
 should be reusable for other projects: feel free to use it, submit PRs, and
