@@ -557,7 +557,7 @@ speaking: depending on the sound you pronounce, your voice has to go up, down or
 stay flat, and the way you do it *does* change the meaning. I omitted it above,
 but in pinyin we put accents on some letters to express the tones.
 For instance, I listed below a few Chinese words whose pronunciation varies
-only with the tone.
+only in the tone.
 You should follow the direction of the accents: the first
 one is flat, the second one goes up, etc.
 
