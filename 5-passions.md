@@ -415,23 +415,24 @@ of the form:
 - Well, you <i>can't</i>.
 </blockquote>
 
-It actually drove me a bit crazy at first, because to me all languages are Turing
-complete in a sense, so they should be able to express the same things, right?
+It actually drove me a bit crazy at first, because to me all natural languages
+are Turing complete in a sense, meaning they should be able to express the same
+things, right?
 
 ### A few words about the Mandarin grammar
 
 Another simple example is the grammar. I've heard a lot that Chinese doesn't
 have a grammar and I find this saying very wrong. It is not because a language
 doesn't require to conjugate verbs that it doesn't have a complex and subtle
-grammar, and I actually own a 400 pages book just about the Chinese one ([this
+grammar, and I actually own a 400 pages book just about this topic ([this
 book](https://g.co/kgs/97M3bd)).
 
 #### Modifying the meaning
 Something fun about the Chinese grammar is the modifiers. The most common one is
 的, written "de" in pinyin, the official romanization system for Mandarin
 Chinese. Note that pinyin uses accents to denote tones, but I will omit them for
-simplicity: see the dedicated section below for more explanations. 的 allows
-adding information about a noun. For instance, in Chinese, "my friend" would be
+simplicity: see the [dedicated section](#chinese-tones) below for more explanations. 的 allows
+adding information to a noun. For instance, in Chinese, "my friend" would be
 translated to the following, where I add spaces for the purpose of clarity
 (words are normally written stuck to each other):
 
@@ -458,14 +459,14 @@ hao <b>de</b> peng-you<br>
 </blockquote>
 
 
-You can even characterize this friend by the fact that you met him in
+You can even characterize this friend with the fact that you met him in
 Shanghai, in the sense that you became friend with him while there. This is a
 bit the equivalent of a subordinate clause:
 
 <blockquote style="font-style: normal">
 我 <b>的</b> 在 上海 见过 <b>的</b> 朋友。<br>
 wo <b>de</b> zai shang-hai jian-guo <b>de</b> peng-you. <br>
-"I <b>[characterizes]</b> at Shanghai meet <b>[characterizes]</b> friend".
+"I <b>[characterizes]</b> in Shanghai meet <b>[characterizes]</b> friend".
 </blockquote>
 
 Omitting the first 的 to make the sentence lighter:
@@ -476,14 +477,15 @@ wo zai shang-hai jian-guo <b>de</b> peng-you. <br>
 "The/a friend I met in Shanghai". <br>
 </blockquote>
 
-And here there is something else to notice, which is that the place (在上海
-/ <i>zai shang-hai</i> / "at Shanghai") preceeds the verb (见过 /
-<i>jian-guo</i> / "meet"): in Chinese we start with the background (time then
-place) then talk about the details (action, etc.). And in 见过 / <i>jian-guo</i>, we
-have a verb 见 / <i>jian</i> / "to meet" concatenated to a suffix 过 / <i>guo</i>, which
-expresses an experience, like in: "once in my life I have been in China". If
-you replace 过 with 了 / <i>le</i>, which expresses a change of situation and
-consequently often marks past actions, the meaning of the sentence changes:
+Here there is something else to notice, which is that the place (在上海/
+<i>zai shang-hai</i> / "in Shanghai") preceeds the verb (见过 / <i>jian-guo</i>
+/ "meet"): in Chinese we start with the background (time then place) then talk
+about the details (action, etc.). Also, 见过 / <i>jian-guo</i> is actually the
+verb 见 / <i>jian</i> / "to meet" concatenated to the suffix 过 / <i>guo</i>,
+which expresses an experience like in: "once in my life I have been in
+China". If you replace 过 with 了 / <i>le</i>, which expresses a change of
+situation and consequently often marks past actions, the meaning of the sentence
+changes:
 
 <blockquote style="font-style: normal">
 我 在 上海 见<b>了</b> 的 朋友。<br>
@@ -492,7 +494,7 @@ wo zai shang-hai jian-le de peng-you. <br>
 week)
 </blockquote>
 
-Also, I explained above that we use 的 to modify *nouns*. There actually exists
+I explained above that we use 的 to modify *nouns*. There actually exists
 a modifier for verbs and adjectives, to describe the manner or degree: 得 /
 <i>de</i>. And we could go on and on and on like this...
 
@@ -501,7 +503,7 @@ One last fun thing I really want to mention about the grammar is the
 quantifiers: whenever you quantify an object ("one cat", "two cats", etc.) you
 have to use a quantifier between the number and the quantified object. For
 instance, "one" is 一 / <i>yi</i>, and "cat" is 猫 / <i>mao</i>. One wouldn't
-simply say 一猫/ <i>yi mao</i> / "one cat": a quantifier is missing. Generally
+simply say 一猫: a quantifier is missing. Generally
 speaking, it is possible to use 个 / <i>ge</i>:
 
 <blockquote style="font-style: normal">
@@ -511,7 +513,7 @@ yi <b>ge</b> mao<br>
 </blockquote>
 
 We can however be more specific, and being specific helps us to be understood:
-the quantified noun can be ambiguous. For instance 只 / <i>zhi</i> is
+the quantified noun can be ambiguous. For instance, 只 / <i>zhi</i> is
 used for animals:
 
 <blockquote style="font-style: normal">
@@ -520,8 +522,7 @@ yi <b>zhi</b> mao<br>
 "one <b>[quantifier for animals]</b> cat"
 </blockquote>
 
-For long objects
-like roads we can use 条 / <i>tiao</i>:
+For long objects like roads we can use 条 / <i>tiao</i>:
 
 <blockquote style="font-style: normal">
 一 <b>条</b> 路<br>
@@ -548,16 +549,17 @@ yi <b>ba</b> san<br>
 
 Of course, this only scratches the surface.
 
-### A tonal language
+### A tonal language <a name="chinese-tones"></a>
 
 Moving away from the grammar, the pronunciation is interesting. Chinese is a
 tonal language, meaning you constantly have to change your tone pitch when
 speaking: depending on the sound you pronounce, your voice has to go up, down or
 stay flat, and the way you do it *does* change the meaning. I omitted it above,
-but in pinyin we put accents on some letters to express the tones. For instance,
-there are the following words in Chinese, where you should follow the direction
-of the accents for the pronunciation (the first one is flat, the second one goes
-up, etc.):
+but in pinyin we put accents on some letters to express the tones.
+For instance, I listed below a few Chinese words whose pronunciation varies
+only with the tone.
+You should follow the direction of the accents: the first
+one is flat, the second one goes up, etc.
 
 <blockquote style="font-style: normal">
 逼 / bī / "to force" (someone to do something) <br>
@@ -667,7 +669,7 @@ repertoire of Chinese songs. My favourites:
 [月亮代表我的心](https://youtu.be/51xS4yXbryc),
 [童话](https://youtu.be/0FJ1BCbTlXg),
 [平凡之路](https://youtu.be/NjTT5_RSkw4) (more generally, I really enjoy Pu
-Shu/朴树's songs),
+Shu / 朴树's songs),
 [十年](https://youtu.be/7OdargV9K88),
 [夜空中最亮的星](https://www.youtube.com/watch?v=GPnymcrXgX0),
 [卡路里](https://youtu.be/3De50Nx1c5I),
