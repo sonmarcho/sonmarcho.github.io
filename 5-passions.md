@@ -372,7 +372,7 @@ the ability to enjoy Chinese literature in Chinese, and by enjoy I mean
 not only understand the text but also grasp its subtleties and relish the style in
 which it is written, all things which are lost in translation. This goal is of
 course difficult, maybe to the point of being unattainable; it is
-nonetheless the resolution by which I abide when practicing.
+nonetheless the resolution by which I abide when I practice.
 
 One of the main reasons why I went to Shanghai is that I had then lived almost
 all my life in France and was looking for a radically different experience.
@@ -429,7 +429,7 @@ book](https://g.co/kgs/97M3bd)).
 
 #### Modifying the meaning
 Something fun about the Chinese grammar is the modifiers. The most common one is
-的, written "de" in pinyin, the official romanization system for Mandarin
+的, written <i>de</i> in pinyin, the official romanization system for Mandarin
 Chinese. Note that pinyin uses accents to denote tones, but I will omit them for
 simplicity: see the [dedicated section](#chinese-tones) below for more explanations. 的 allows
 adding information to a noun. For instance, in Chinese, "my friend" would be
@@ -577,7 +577,7 @@ moving my hand up and down to accompany the tones while speaking Chinese...
 
 ### Writing Chinese
 
-Who could speak about Chinese without mentioning the Chinese characters? There
+Who could talk about Chinese without mentioning the Chinese characters? There
 truly is beauty in a Chinese character, and a powerful evocative
 power. This is especially striking when looking at traditional Chinese
 characters, that is to say characters from before the 1952 simplification in
