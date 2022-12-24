@@ -310,7 +310,7 @@ you learn a lot - a lot more than the other techniques.
   <div style="background: lightgray; border: 2px solid gray;">
   <div style="margin: 15px;">
 
-  <b>My favourite museum is the <i>musée d'Orsay</i></b>, in Paris. I love the paintings,
+  <b>My favourite museum is <i>musée d'Orsay</i></b>, in Paris. I love the paintings,
   and I used to go there with friends to draw the sculptures as they have an
   extremely good sculptures collection.
   There is a nearby café,
@@ -455,7 +455,7 @@ For instance you can use 好 / <i>hao</i> / "good" to characterize a friend:
 <blockquote style="font-style: normal">
 好 <b>的</b> 朋友<br>
 hao <b>de</b> peng-you<br>
-"(a) good friend"<br>
+"good <b>[characterizes]</b> friend"; i.e.: "(a) good friend"<br>
 </blockquote>
 
 
@@ -477,15 +477,15 @@ wo zai shang-hai jian-guo <b>de</b> peng-you. <br>
 "The/a friend I met in Shanghai". <br>
 </blockquote>
 
-Here there is something else to notice, which is that the place (在上海/
-<i>zai shang-hai</i> / "in Shanghai") preceeds the verb (见过 / <i>jian-guo</i>
-/ "meet"): in Chinese we start with the background (time then place) then talk
-about the details (action, etc.). Also, 见过 / <i>jian-guo</i> is actually the
-verb 见 / <i>jian</i> / "to meet" concatenated to the suffix 过 / <i>guo</i>,
-which expresses an experience like in: "once in my life I have been in
-China". If you replace 过 with 了 / <i>le</i>, which expresses a change of
-situation and consequently often marks past actions, the meaning of the sentence
-changes:
+Here there is something else to notice, which is that the place (在上海/ <i>zai
+shang-hai</i> / "in Shanghai") preceeds the verb (见过 / <i>jian-guo</i> /
+"meet"): in Chinese we start with the background (time then place) then talk
+about the details (action, etc.). The verb itself is actually made of two
+parts. The first character 见 / <i>jian</i> means "to meet". The second
+character 过 / <i>guo</i> expresses an experience like in: "once in my life I
+have been in China". If you replace 过 with 了 / <i>le</i>, which expresses a
+change of situation and consequently often marks past actions, the meaning of
+the sentence changes:
 
 <blockquote style="font-style: normal">
 我 在 上海 见<b>了</b> 的 朋友。<br>
@@ -494,7 +494,7 @@ wo zai shang-hai jian-le de peng-you. <br>
 week)
 </blockquote>
 
-I explained above that we use 的 to modify *nouns*. There actually exists
+Also, I explained above that we use 的 to modify *nouns*. There actually exists
 a modifier for verbs and adjectives, to describe the manner or degree: 得 /
 <i>de</i>. And we could go on and on and on like this...
 
