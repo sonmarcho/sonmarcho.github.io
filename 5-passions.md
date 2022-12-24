@@ -610,6 +610,66 @@ decompose it, we get:
 
 In short: **learning is for a child to catch the stars with their hands**...
 
+As illustrated with the example above, most Chinese characters can be decomposed
+into simpler characters, whose most primitive ones are called
+<i>radicals</i>. More specifically, it often happens that a character can be
+decomposed into a first character which gives the sound, and a second, smaller
+one called the <i>key</i> which gives the meaning. For instance, 青 / <i>qīng</i>
+expresses both green and blue and designates a (set of) color(s) typically found
+in landscapes, and consequently also found in paintings like the famous 山水 /
+shān-shuǐ / "mountain and water". This radical is used in many other characters,
+from which I give a selection below:
+
+<blockquote style="font-style: normal">
+- 情 / <i>qíng</i> / "(a) feeling" - 忄is a compact version of 心 / <i>xīn</i> / "heart" <br>
+- 请 / <i>qǐng</i> / "please" (ex.: "please open the door") - 讠is a compact version of 言 / <i>yán</i> / "word" <br>
+- 晴 / <i>qíng</i> / "fine" (about the weather) - 日 / <i>rì</i> is the "sun" <br>
+- 清 / <i>qīng</i> / "clear" (ex.: "a clear soup") - 氵is a compact version of 水 / shuǐ / "water" <br>
+</blockquote>
+
+Interestingly, some radicals, when used as keys, often specifically identify
+words from a given lexical field. A simple example is 犭, the compact version of
+犬 / <i>quǎn</i> / "dog", which often identifies animals:
+
+<blockquote style="font-style: normal">
+- 狼 / <i>liáng</i> / "wolf"<br>
+- 猪 / <i>zhū</i> / "pig"<br>
+- 猫 / <i>māo</i> / "cat"<br>
+- 狐狸 / <i>hú-li</i> / "fox" (you may have heard of 狐狸精 / <i>hú-li-jīng</i>,
+the fox spirits taking the shape of seductive women)<br>
+</blockquote>
+
+Chinese people designate everything which looks like an insect, a worm or a
+reptile with 虫 / <i>chóng</i>:
+
+<blockquote style="font-style: normal">
+- 蛇 / <i>shé</i> / "snake"<br>
+- 虾 / <i>xià</i> / "shrimp"<br>
+- 蝴蝶 / <i>hú-dié</i> / "butterfly"<br>
+- 蜥蜴 / <i>xī-yì</i> / "lizard"<br>
+</blockquote>
+
+Our last example, the character 月 / <i>yuè</i> / "moon", often identifies body parts:
+
+<blockquote style="font-style: normal">
+- 脸 / <i>liǎn</i> / "face"<br>
+- 肚子 / <i>dù-zi</i> / "belly"<br>
+- 脑子 / <i>nǎo-zi</i> / "brain"<br>
+- 腿 / <i>tuǐ</i> / "leg"<br>
+- 脚 / <i>jiǎo</i> / "foot"<br>
+- ...<br>
+</blockquote>
+
+  <!-- TODO: put that in the CSS -->
+  <p><div style="background: lightgray; border: 2px solid gray;">
+  <div style="margin: 15px;">
+  <b>Why does the moon (月) identify body parts?</b> It used to be 肉 / <i>ròu</i> /
+  "meat" whose compact version ⺼, because it is very similar to 月, eventually
+  got merged with the latter in printed text
+  (<a href="https://en.wiktionary.org/wiki/%E8%82%89#Translingual">ref</a>).
+  </div></div></p>
+
+
 ### Some notes about learning Chinese
 While it is easy to learn Chinese in China, I had to adapt a bit once I was back
 in France to build a proper learning environment. My way of doing it: Chinese
