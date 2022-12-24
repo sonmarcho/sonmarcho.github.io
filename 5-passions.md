@@ -349,6 +349,15 @@ reminds me of when I used to
 [program shaders in C++ and HLSL while in high
 school](https://github.com/sonmarcho/CrowdEngine).
 
+<div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
+<a href="assets/images/cg-male-head.jpg">
+<img src="assets/images/cg-male-head.jpg"
+     alt="" />
+</a>
+<figcaption>Male head sculpture</figcaption>
+</div>
+
+
 You can learn more about my experiments in this [blog post](/2021/01/19/old-town.html).
 
 ## Chinese <a name="chinese"></a>
