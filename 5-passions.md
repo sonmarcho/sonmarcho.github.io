@@ -410,7 +410,7 @@ of the form:
 <blockquote style="font-style: normal">
 - How would you say [some sentence] in Chinese?<br>
 - You would say [such and such].<br>
-- But this doesn't mean the same thing at all. How would you preserve the
+- But this doesn't express the same thing at all. How would you preserve the
   meaning?<br>
 - Well, you <i>can't</i>.
 </blockquote>
@@ -455,7 +455,7 @@ For instance you can use 好 / <i>hao</i> / "good" to characterize a friend:
 <blockquote style="font-style: normal">
 好 <b>的</b> 朋友<br>
 hao <b>de</b> peng-you<br>
-"good <b>[characterizes]</b> friend"; i.e.: "(a) good friend"<br>
+"good <b>[characterizes]</b> friend" --> i.e.: "(a) good friend"<br>
 </blockquote>
 
 
@@ -464,23 +464,16 @@ Shanghai, in the sense that you became friend with him while there. This is a
 bit the equivalent of a subordinate clause:
 
 <blockquote style="font-style: normal">
-我 <b>的</b> 在 上海 见过 <b>的</b> 朋友。<br>
-wo <b>de</b> zai shang-hai jian-guo <b>de</b> peng-you. <br>
-"I <b>[characterizes]</b> in Shanghai meet <b>[characterizes]</b> friend".
-</blockquote>
-
-Omitting the first 的 to make the sentence lighter:
-
-<blockquote style="font-style: normal">
 我 在 上海 见过 <b>的</b> 朋友。<br>
 wo zai shang-hai jian-guo <b>de</b> peng-you. <br>
-"The/a friend I met in Shanghai". <br>
+"I in Shanghai meet <b>[characterizes]</b> friend" --> i.e.: "The/a friend I met in Shanghai".
 </blockquote>
 
 Here there is something else to notice, which is that the place (在上海/ <i>zai
 shang-hai</i> / "in Shanghai") preceeds the verb (见过 / <i>jian-guo</i> /
-"meet"): in Chinese we start with the background (time then place) then talk
-about the details (action, etc.). The verb itself is actually made of two
+"meet"). Putting the subject aside (我 / <i>wo</i> / "I"), in Chinese we start
+with the background (time then place) then talk about the details (action,
+etc.). Looking at the verb itself, we can notice it is actually made of two
 parts. The first character 见 / <i>jian</i> means "to meet". The second
 character 过 / <i>guo</i> expresses an experience like in: "once in my life I
 have been in China". If you replace 过 with 了 / <i>le</i>, which expresses a
@@ -581,7 +574,7 @@ Who could talk about Chinese without mentioning the Chinese characters? There
 truly is beauty in a Chinese character, and a powerful evocative
 power. This is especially striking when looking at traditional Chinese
 characters, that is to say characters from before the 1952 simplification in
-mainland China, and which are still in use in some places like Taiwan.  For
+mainland China, and which are still used in some places like Taiwan.  For
 instance, the traditional character for 学 / xué / "to learn" is 學. If we
 decompose it, we get:
 
