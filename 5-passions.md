@@ -424,7 +424,7 @@ things, right?
 Another simple example is the grammar. I've heard a lot that Chinese doesn't
 have a grammar and I find this saying very wrong. It is not because a language
 doesn't require to conjugate verbs that it doesn't have a complex and subtle
-grammar, and I actually own a 400 pages book just about this topic ([this
+grammar, and I actually own a 400-page book just about this topic ([this
 book](https://g.co/kgs/97M3bd)).
 
 #### Modifying the meaning
@@ -438,11 +438,11 @@ translated to the following, where I add spaces for the purpose of clarity
 
 <blockquote style="font-style: normal">
 我 <b>的</b> 朋友<br>
-wo <b>de</b> peng-you<br>
-"my friend"
+wo <b>de</b> peng'you<br>
+"I <b>[characterizes]</b> friend" --> i.e.: "my friend"
 </blockquote>
 
-我 / <i>wo</i> is "me" or "I", and 朋友 / <i>peng-you</i> means "friend". The
+我 / <i>wo</i> is "me" or "I", and 朋友 / <i>peng'you</i> means "friend". The
 interesting point is that 的 really doesn't express possession in the first
 place: in the previous sentence it simply expresses the fact that 朋友 /
 <i>peng-you</i> / "friend" is characterized by 我 / <i>wo</i> / "me". In this
@@ -450,11 +450,11 @@ context, the sentence specifically means "my friend". But it is possible to use
 的 to modify a noun with an adjective: again, it is all about
 *characterization*.
 
-For instance you can use 好 / <i>hao</i> / "good" to characterize a friend:
+For instance, you can use 好 / <i>hao</i> / "good" to characterize a friend:
 
 <blockquote style="font-style: normal">
 好 <b>的</b> 朋友<br>
-hao <b>de</b> peng-you<br>
+hao <b>de</b> peng'you<br>
 "good <b>[characterizes]</b> friend" --> i.e.: "(a) good friend"<br>
 </blockquote>
 
@@ -465,15 +465,17 @@ bit the equivalent of a subordinate clause:
 
 <blockquote style="font-style: normal">
 我 在 上海 见过 <b>的</b> 朋友。<br>
-wo zai shang-hai jian-guo <b>de</b> peng-you. <br>
+wo zai shang'hai jian'guo <b>de</b> peng'you. <br>
 "I in Shanghai meet <b>[characterizes]</b> friend" --> i.e.: "The/a friend I met in Shanghai".
 </blockquote>
 
 Here there is something else to notice, which is that the place (在上海/ <i>zai
-shang-hai</i> / "in Shanghai") preceeds the verb (见过 / <i>jian-guo</i> /
+shang'hai</i> / "in Shanghai") preceeds the verb (见过 / <i>jian'guo</i> /
 "meet"). Putting the subject aside (我 / <i>wo</i> / "I"), in Chinese we start
 with the background (time then place) then talk about the details (action,
-etc.). Looking at the verb itself, we can notice it is actually made of two
+etc.).
+
+Looking at the verb itself, we can notice it is actually made of two
 parts. The first character 见 / <i>jian</i> means "to meet". The second
 character 过 / <i>guo</i> expresses an experience like in: "once in my life I
 have been in China". If you replace 过 with 了 / <i>le</i>, which expresses a
@@ -482,7 +484,7 @@ the sentence changes:
 
 <blockquote style="font-style: normal">
 我 在 上海 见<b>了</b> 的 朋友。<br>
-wo zai shang-hai jian-le de peng-you. <br>
+wo zai shang'hai jian'le de peng-you. <br>
 "The/a friend I saw in Shanghai". (say, I saw a friend when I went there last
 week)
 </blockquote>
@@ -568,6 +570,36 @@ musicality to the language. On my side, I have to admit I found them quite hard
 to accomodate at the beginning: it took me a while to stop nodding or at least
 moving my hand up and down to accompany the tones while speaking Chinese...
 
+
+  <!-- TODO: put that in the CSS -->
+  <p><div style="background: lightgray; border: 2px solid gray;">
+  <div style="margin: 15px;">
+  <p>
+  <b>Speaking of pronunciation,</b> the accent varies a lot with the place: even
+  putting dialects aside, Northerners have a specific way of speaking Mandarin,
+  Southerners have a (strong) southern accent, etc.
+  I personally try to make my accent match a blend of what one can hear in
+  Beijing and Shanghai. To be more specific: I try to maximize the
+  differenciation between the sounds I pronounce by cherry-picking between those
+  two accents, as they are quite close though people from Beijing
+  distinguish some sounds in pinyin while Shanghaiese people don't, and
+  vice-versa.
+  </p>
+
+  <p>
+  Chinese people also don't
+  exclusively speak Mandarin, and a good example is given by Cantonese which
+  people speak in the south. Actually, from my experience, it seems that most
+  people speak at least two languages. They speak Mandarin as it is the common
+  langage and actually often designated as such (普通话 / <i>pǔ'tōng huà</i> /
+  "common language"). But they also often speak a local language or dialect.
+  For instance, Shanghaiese people speak Shanghaiese, people from Kunming speak
+  Mandarin mixed with some Yunnan words and expressions, Cantonese people speak
+  Cantonese, etc.
+  </p>
+
+  </div></div></p>
+
 ### Writing Chinese
 
 Who could talk about Chinese without mentioning the Chinese characters? There
@@ -617,7 +649,7 @@ decomposed into a first character which gives the sound, and a second, smaller
 one called the <i>key</i> and which gives the meaning. For instance, 青 / <i>qīng</i>
 expresses both green and blue and designates a (set of) color(s) typically found
 in landscapes, and consequently also found in paintings like the famous 山水 /
-shān-shuǐ / "mountain and water". This radical is used in many other characters
+shān'shuǐ / "mountain and water". This radical is used in many other characters
 with a similar pronunciation, from which I give a selection below:
 
 <blockquote style="font-style: normal">
@@ -635,7 +667,7 @@ words from a given lexical field. A simple example is 犭, the compact version o
 - 狼 / <i>liáng</i> / "wolf"<br>
 - 猪 / <i>zhū</i> / "pig"<br>
 - 猫 / <i>māo</i> / "cat"<br>
-- 狐狸 / <i>hú-li</i> / "fox" (you may have heard of 狐狸精 / <i>hú-li-jīng</i>,
+- 狐狸 / <i>hú'li</i> / "fox" (you may have heard of 狐狸精 / <i>hú'li'jīng</i>,
 the fox spirits taking the shape of seductive women)<br>
 </blockquote>
 
@@ -646,16 +678,16 @@ in the related characters:
 <blockquote style="font-style: normal">
 - 蛇 / <i>shé</i> / "snake"<br>
 - 虾 / <i>xià</i> / "shrimp"<br>
-- 蝴蝶 / <i>hú-dié</i> / "butterfly"<br>
-- 蜥蜴 / <i>xī-yì</i> / "lizard"<br>
+- 蝴蝶 / <i>hú'dié</i> / "butterfly"<br>
+- 蜥蜴 / <i>xī'yì</i> / "lizard"<br>
 </blockquote>
 
 Our last example, the character 月 / <i>yuè</i> / "moon", often identifies body parts:
 
 <blockquote style="font-style: normal">
 - 脸 / <i>liǎn</i> / "face"<br>
-- 肚子 / <i>dù-zi</i> / "belly"<br>
-- 脑子 / <i>nǎo-zi</i> / "brain"<br>
+- 肚子 / <i>dù'zi</i> / "belly"<br>
+- 脑子 / <i>nǎo'zi</i> / "brain"<br>
 - 腿 / <i>tuǐ</i> / "leg"<br>
 - 脚 / <i>jiǎo</i> / "foot"<br>
 - ...<br>
