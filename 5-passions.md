@@ -459,8 +459,8 @@ hao <b>de</b> peng-you<br>
 </blockquote>
 
 
-You can even characterize this friend with the fact that you met him in
-Shanghai, in the sense that you became friend with him while there. This is a
+You can even characterize this friend with the fact that you met her in
+Shanghai, in the sense that you became friend with her while there. This is a
 bit the equivalent of a subordinate clause:
 
 <blockquote style="font-style: normal">
@@ -614,11 +614,11 @@ As illustrated with the example above, most Chinese characters can be decomposed
 into simpler characters, whose most primitive ones are called
 <i>radicals</i>. More specifically, it often happens that a character can be
 decomposed into a first character which gives the sound, and a second, smaller
-one called the <i>key</i> which gives the meaning. For instance, 青 / <i>qīng</i>
+one called the <i>key</i> and which gives the meaning. For instance, 青 / <i>qīng</i>
 expresses both green and blue and designates a (set of) color(s) typically found
 in landscapes, and consequently also found in paintings like the famous 山水 /
-shān-shuǐ / "mountain and water". This radical is used in many other characters,
-from which I give a selection below:
+shān-shuǐ / "mountain and water". This radical is used in many other characters
+with a similar pronunciation, from which I give a selection below:
 
 <blockquote style="font-style: normal">
 - 情 / <i>qíng</i> / "(a) feeling" - 忄is a compact version of 心 / <i>xīn</i> / "heart" <br>
@@ -639,8 +639,9 @@ words from a given lexical field. A simple example is 犭, the compact version o
 the fox spirits taking the shape of seductive women)<br>
 </blockquote>
 
-Chinese people designate everything which looks like an insect, a worm or a
-reptile with 虫 / <i>chóng</i>:
+In the same spirit, Chinese people designate everything which looks like an
+insect, a worm or a reptile with 虫 / <i>chóng</i>, which is consequently used
+in the related characters:
 
 <blockquote style="font-style: normal">
 - 蛇 / <i>shé</i> / "snake"<br>
