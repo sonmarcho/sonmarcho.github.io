@@ -642,7 +642,7 @@ decompose it, we get:
 
 In short: **learning is for a child to catch the stars with their hands**...
 
-As illustrated with the example above, most Chinese characters can be decomposed
+As illustrated with the example above, many Chinese characters can be decomposed
 into simpler characters, whose most primitive ones are called
 <i>radicals</i>. More specifically, it often happens that a character can be
 decomposed into a first character which gives the sound, and a second, smaller
@@ -671,7 +671,7 @@ words from a given lexical field. A simple example is 犭, the compact version o
 the fox spirits taking the shape of seductive women)<br>
 </blockquote>
 
-In the same spirit, Chinese people designate everything which looks like an
+Similarly, Chinese people designate everything which looks like an
 insect, a worm or a reptile with 虫 / <i>chóng</i>, which is consequently used
 in the related characters:
 
@@ -696,10 +696,12 @@ Our last example, the character 月 / <i>yuè</i> / "moon", often identifies bod
   <!-- TODO: put that in the CSS -->
   <p><div style="background: lightgray; border: 2px solid gray;">
   <div style="margin: 15px;">
-  <b>Why does the moon (月) identify body parts?</b> It used to be 肉 / <i>ròu</i> /
-  "meat" whose compact version ⺼, because it is very similar to 月, eventually
-  got merged with the latter in printed text
-  (<a href="https://en.wiktionary.org/wiki/%E8%82%89#Translingual">ref</a>).
+  <b>Why does the moon (月) identify body parts?</b> It should actually be 肉 / <i>ròu</i> /
+  "meat", whose compact version ⺼, because it is similar to 月,
+  is often merged with the latter in printed text (for more details and nuances, see
+  those excellent
+  <a href="https://chinese.stackexchange.com/questions/27503/whats-the-differece-between-%E6%9C%98-u6718-and-%E8%84%A7-u8127/27551#27551">
+  explanations</a>).
   </div></div></p>
 
 
