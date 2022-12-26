@@ -303,7 +303,7 @@ amount of displacement of the vertices, you can in effect project a volume
 
 
 I then used the symmetry options to do the pourtour of the coin, before
-leveraging the move tools and some other brushes to create a bit of wear and
+leveraging the move tool and some other brushes to create a bit of wear and
 tear. I also made a few attempts at adding finer details like erosion but
 finally decided not to do so to keep the look relatively simple.
 
