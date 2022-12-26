@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sculpting a head with ZBrush"
+title: "Sculpting a Head with ZBrush"
 date: 2022-12-26
 tags: art cg
 published: true
@@ -283,22 +283,14 @@ amount of displacement of the vertices, you can in effect project a volume
 (i.e., the face) onto a surface.
 
 <p><div style="text-align: center; margin: 0; caption-side: bottom">
-<table cellspacing="0" style="border-collapse: collapse">
-<tr style="background:rgba(0,0,0,0);">
-  <td style="text-align: center">
-    <img src="{{images}}face-depth.jpg"
-         alt="The depth map" title="The depth map"
-         style="" height="300" align="center"/>
-    <figcaption>The depth map</figcaption>
-  </td>
-  <td style="text-align: center">
-    <img src="{{images}}project3.gif"
-         alt="Projecting the head" title="Projecting the head"
-         style="" width="300" align="center"/>
-    <figcaption>Projecting the head on a coin</figcaption>
-  </td>
-</tr>
-</table>
+<img src="{{images}}face-depth.jpg"
+     alt="The depth map" title="The depth map"
+     style="" height="300" align="center"/>
+<figcaption>The depth map</figcaption>
+<img src="{{images}}project3.gif"
+     alt="Projecting the head" title="Projecting the head"
+     style="" width="300" align="center"/>
+<figcaption>Projecting the head on a coin</figcaption>
 </div></p>
 
 
