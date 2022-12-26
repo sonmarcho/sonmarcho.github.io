@@ -34,16 +34,16 @@ themselves often grouped in quads. As the modeller has to manipulate each vertex
 one by one, those models often have a relatively low polycount. This polycount
 varies with the topic or the context, for instance whether you model an object
 for a video game or a movie quality render, which goes in the foreground or the
-background, etc. For a face, I would often target a model with a few thousands
-triangles. In contrast, with 3D sculpting you start with a base shape, often
-created with the above method, subdivide this shape a lot until it has from
-hundreds of thousands to tens of millions triangles (and even more!), then
+background, etc. For a face, I would often end up with a model made of a few
+thousands triangles. In contrast, with 3D sculpting we start with a base shape,
+often created with the above method, subdivide this shape a lot until it has
+from hundreds of thousands to tens of millions triangles (and even more!), then
 use brushes to sculpt this mesh. There exists various tools to sculpt in 3D: I
 personally use [ZBrush](https://pixologic.com/).
 
 For instance, you can see several subdivision levels of a sphere below. It
 starts with 482 vertices and ends with more than 100k vertices (ZBrush doesn't
-give the polycount in triangles). Whenever I increase the subdivision level,
+give the polycount in triangles). Whenever the subdivision level increases,
 every (quad) face is split into four, and the angle between the edges is
 smoothed. At some point you actually stop noticing that the surface is made of
 flat faces. Note that on low-poly models, we usually render the faces in such a
@@ -57,10 +57,10 @@ limited number of flat faces.
 <figcaption>Subdividing a sphere</figcaption>
 </div></p>
 
-Once you have enough polygons, you can use brushes to deform the model by moving
-groups of vertices together. For this particular project I decided to go back to
-basics by using a limited selection of brushes: I did everything with the 6
-brushes shown below.
+Once there are enough polygons, we can use brushes to sculpt the model by moving
+groups of vertices. For this particular project I decided to go back to basics
+by using a limited selection of brushes: I did everything with the 6 brushes
+shown below.
 
 <p><div style="text-align: center; margin: 0; caption-side: bottom">
 <table cellspacing="0" style="border-collapse: collapse">
@@ -144,7 +144,7 @@ closer to what I had in mind.
 
 I then worked on the details. I had to experiment a bit because I hadn't
 sculpted anything in a long time. As I wanted to create a sculpted head, I also
-aimed at a stylized finition. As a result, I slowly converged towards the
+aimed at a stylized look. As a result, I slowly converged towards the
 following process. First, I used the clay buildup brush to create the overall
 shapes by adding or substracting volumes. I then used the flatten brush to make
 the surfaces less roundish, and give them the look of a sculpted surface.  Of
@@ -207,7 +207,7 @@ switching from one part to the other and progressively polishing the surfaces.
   <div style="margin: 15px;">
 
   <p>
-  <b>I knew I should have closed the mouth before starting to sculpt!</b> Using
+  <b>I knew I should have closed the mouth before sculpting!</b> Using
   brushes on open edges can lead to weird results, especially in the
   presence of sharp angles. As a consequence, I ended up with the following
   artifacts at some point: as you can see, some polygons at the corner of
