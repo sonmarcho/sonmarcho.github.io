@@ -29,17 +29,17 @@ replaced my >12 year old graphic tablet with a new one, and 3D sculpture was a
 perfect opportunity to play with it. I thus set off on this project.
 
 If you don't know what 3D sculpting looks like, here is an overview.
-Traditionally, surfaces of 3D objects are generally modelled with triangles,
-which are themselves often grouped in quads. As the modeller has to manipulate
-each vertex one by one, those models often have a relatively low polycount. This
-polycount varies with the topic or the context, for instance whether
-you model something for a video game or a movie, which goes in the foreground or
-the background, etc., but for a face, creating a model with several thousands of
-triangles is a good order of magnitude. With 3D sculpting you start with a base
-shape, often created with the above method, subdivide this shape a lot until it
-has from hundreds of thousands to tens of millions of triangles (and even
-more!), then use brushes to sculpt this mesh.  There exists various tools to
-sculpt in 3D: I personally use [ZBrush](https://pixologic.com/).
+Traditionally, surfaces of 3D objects are modelled with triangles, which are
+themselves often grouped in quads. As the modeller has to manipulate each vertex
+one by one, those models often have a relatively low polycount. This polycount
+varies with the topic or the context, for instance whether you model an object
+for a video game or a movie quality render, which goes in the foreground or the
+background, etc. For a face, I would often target a model with a few thousands
+triangles. In contrast, with 3D sculpting you start with a base shape, often
+created with the above method, subdivide this shape a lot until it has from
+hundreds of thousands to tens of millions triangles (and even more!), then
+use brushes to sculpt this mesh. There exists various tools to sculpt in 3D: I
+personally use [ZBrush](https://pixologic.com/).
 
 For instance, you can see several subdivision levels of a sphere below. It
 starts with 482 vertices and ends with more than 100k vertices (ZBrush doesn't
