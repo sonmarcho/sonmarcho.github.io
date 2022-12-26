@@ -354,11 +354,12 @@ school](https://github.com/sonmarcho/CrowdEngine).
 <img src="assets/images/cg-male-head.jpg"
      alt="" />
 </a>
-<figcaption>Male head sculpture</figcaption>
+<figcaption>Sculpted head</figcaption>
 </div>
 
 
-You can learn more about my experiments in this [blog post](/2021/01/19/old-town.html).
+You can learn more about my experiments [here](/2021/01/19/old-town.html)
+or [there](/2022/12/26/sculpted-head.html).
 
 ## Chinese <a name="chinese"></a>
 I lived in Shanghai in 2019, which allowed me to discover the Chinese culture
