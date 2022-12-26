@@ -350,10 +350,9 @@ reminds me of when I used to
 school](https://github.com/sonmarcho/CrowdEngine).
 
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
-<a href="assets/images/cg-male-head.jpg">
-<img src="assets/images/cg-male-head.jpg"
-     alt="" />
-</a>
+<img src="assets/images/cg-sculpted-head1.jpg"
+     alt=""
+     width="600" />
 <figcaption>Sculpted head</figcaption>
 </div>
 
