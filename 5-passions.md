@@ -659,14 +659,12 @@ their parents' knees ([ref](http://www.homeinmists.com/hd/orgpage.html?page=1092
 
 
 As illustrated with the example above, many Chinese characters can be decomposed
-into simpler characters, whose most primitive ones are called
-<i>radicals</i>. More specifically, it often happens that a character can be
-decomposed into a first character which gives the sound, and a second, smaller
-one called the <i>key</i> and which gives the meaning. For instance, 青 / <i>qīng</i>
+into simpler ones. More specifically, it is often possible to decompose a character
+into a *semantic* component and a *phonetic* component. For instance, 青 / <i>qīng</i>
 expresses both green and blue and designates a (set of) color(s) typically found
 in landscapes, and consequently also found in paintings like the famous 山水 /
-shān'shuǐ / "mountain and water". This radical is used in many other characters
-with a similar pronunciation, from which I give a selection below:
+shān'shuǐ / "mountain and water". 青 is used in other characters
+which have a similar pronunciation, and from which I give a selection below:
 
 <blockquote style="font-style: normal">
 - 情 / <i>qíng</i> / "(a) feeling" - 忄is a compact version of 心 / <i>xīn</i> / "heart" <br>
@@ -675,9 +673,9 @@ with a similar pronunciation, from which I give a selection below:
 - 清 / <i>qīng</i> / "clear" (ex.: "a clear soup") - 氵is a compact version of 水 / shuǐ / "water" <br>
 </blockquote>
 
-Interestingly, some radicals, when used as keys, often specifically identify
-words from a given lexical field. A simple example is 犭, the compact version of
-犬 / <i>quǎn</i> / "dog", which often identifies animals:
+Interestingly, some characters, when used as semantic components, often
+specifically identify words from a given lexical field. A simple example is 犭,
+the compact version of犬 / <i>quǎn</i> / "dog", which often identifies animals:
 
 <blockquote style="font-style: normal">
 - 狼 / <i>liáng</i> / "wolf"<br>
@@ -714,12 +712,14 @@ Our last example, the character 月 / <i>yuè</i> / "moon", often identifies bod
   <div style="margin: 15px;">
   <b>Why does the moon (月) identify body parts?</b> It should actually be 肉 / <i>ròu</i> /
   "meat", whose compact version ⺼, because it is similar to 月,
-  is often merged with the latter in printed text (for more details and nuances, see
-  those excellent
+  is often merged with the latter in printed text (for details and nuances, you
+  can read
   <a href="https://chinese.stackexchange.com/questions/27503/whats-the-differece-between-%E6%9C%98-u6718-and-%E8%84%A7-u8127/27551#27551">
-  explanations</a>).
+  this</a>).
   </div></div></p>
 
+Once again, this only scratches the surface: there are many other ways of
+forming Chinese characters...
 
 ### Some notes about learning Chinese
 While it is easy to learn Chinese in China, I had to adapt a bit once I was back
