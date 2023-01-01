@@ -428,13 +428,14 @@ grammar, and I actually own a 400-page book just about this topic ([this
 book](https://g.co/kgs/97M3bd)).
 
 #### Modifying the meaning
-Something fun about the Chinese grammar is the modifiers. The most common one is
+Something fun about the Chinese grammar is the modifiers. It is for instance
+possible to *modify* a noun by adding information with the structural particle
 的, written <i>de</i> in pinyin, the official romanization system for Mandarin
 Chinese. Note that pinyin uses accents to denote tones, but I will omit them for
-simplicity: see the [dedicated section](#chinese-tones) below for more explanations. 的 allows
-adding information to a noun. For instance, in Chinese, "my friend" would be
-translated to the following, where I add spaces for the purpose of clarity
-(words are normally written stuck to each other):
+simplicity: see the [dedicated section](#chinese-tones) below for more
+explanations. For instance, in Chinese, "my friend" would be translated to the
+following, where I add spaces for the purpose of clarity (words are normally
+written stuck to each other):
 
 <blockquote style="font-style: normal">
 我 <b>的</b> 朋友<br>
@@ -458,10 +459,9 @@ hao <b>de</b> peng'you<br>
 "good <b>[characterizes]</b> friend" --> i.e.: "(a) good friend"<br>
 </blockquote>
 
-
 You can even characterize this friend with the fact that you met her in
 Shanghai, in the sense that you became friend with her while there. This is a
-bit the equivalent of a subordinate clause:
+bit the equivalent of a relative clause:
 
 <blockquote style="font-style: normal">
 我 在 上海 见过 <b>的</b> 朋友。<br>
@@ -490,8 +490,8 @@ week)
 </blockquote>
 
 Also, I explained above that we use 的 to modify *nouns*. There actually exists
-a modifier for verbs and adjectives, to describe the manner or degree: 得 /
-<i>de</i>. And we could go on and on and on like this...
+structural particles for verbs and adjectives, to describe the manner or degree: 得 /
+<i>de</i> and 地 / <i>de</i>. And we could go on and on and on like this...
 
 #### Quantifying objects
 One last fun thing I really want to mention about the grammar is the
@@ -603,7 +603,7 @@ moving my hand up and down to accompany the tones while speaking Chinese...
 ### Writing Chinese
 
 Who could talk about Chinese without mentioning the Chinese characters? There
-truly is beauty in a Chinese character, and a powerful evocative
+truly is beauty in a Chinese character, and a strong evocative
 power. This is especially striking when looking at traditional Chinese
 characters, that is to say characters from before the 1952 simplification in
 mainland China, and which are still used in some places like Taiwan.  For
@@ -621,14 +621,15 @@ decompose it, we get:
   <td style="text-align: center">
     <img src="{{images}}xue-stars.png" alt="character xue" title="character xue"
          width="200"/>
-    <figcaption>The stars</figcaption>
+    <figcaption>爻 / yao, lines making up a hexagram<br> in the 易经 /
+    <i>i'jing</i> / "Book of Changes"</figcaption>
   </td>
 </tr>
 <tr style="background:rgba(0,0,0,0);">
   <td style="text-align: center">
     <img src="{{images}}xue-cover.png" alt="character xue" title="character xue"
          width="200"/>
-    <figcaption>A cover</figcaption>
+    <figcaption>Being incult</figcaption>
   </td>
   <td style="text-align: center">
     <img src="{{images}}xue-child.png" alt="character xue" title="character xue"
@@ -640,7 +641,22 @@ decompose it, we get:
 </table>
 </div></p>
 
-In short: **learning is for a child to catch the stars with their hands**...
+**The whole character describes a child learning the hexagrams of the Book
+of Changes.** It can actually be seen as forming the image of a child learning at
+their parents' knees ([ref](http://www.homeinmists.com/hd/orgpage.html?page=1092)).
+
+  <!-- TODO: put that in the CSS -->
+  <p><div style="background: lightgray; border: 2px solid gray;">
+  <div style="margin: 15px;">
+  <p>
+  I actually heard a different explanation for the character 學, in which 爻stands
+  for the stars. This gives: <b>learning is for a child to catch the stars with
+  their hands</b>. I could unfortunately not find any source supporting this
+  interpretation...
+  </p>
+
+  </div></div></p>
+
 
 As illustrated with the example above, many Chinese characters can be decomposed
 into simpler characters, whose most primitive ones are called
@@ -771,6 +787,6 @@ Shu / 朴树's songs),
   <b>How to call me in Chinese</b>:<br>
   我是法国人，但是爸爸是越南人，所以我的名字来自越南。
   翻译成中文，我的名字就是“湖山”。
-  发音也差不多。如果你是中国人，可以叫我“湖山”
+  发音也差不多。如果你是中国人，可以叫我“湖山”。
   </div></div>
 
