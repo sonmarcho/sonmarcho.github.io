@@ -578,12 +578,14 @@ moving my hand up and down to accompany the tones while speaking Chinese...
   <b>Speaking of pronunciation,</b> the accent varies a lot with the place: even
   putting dialects aside, Northerners have a specific way of speaking Mandarin,
   Southerners have a (strong) southern accent, etc.
+  <!--
   I personally try to make my accent match a blend of what one can hear in
   Beijing and Shanghai. To be more specific: I try to maximize the
-  differenciation between the sounds I pronounce by cherry-picking between those
+  differentiation between the sounds I pronounce by cherry-picking between those
   two accents, as they are quite close though people from Beijing
   distinguish some sounds in pinyin while Shanghaiese people don't, and
   vice-versa.
+  -->
   </p>
 
   <p>
@@ -678,7 +680,7 @@ specifically identify words from a given lexical field. A simple example is 犭,
 the compact version of犬 / <i>quǎn</i> / "dog", which often identifies animals:
 
 <blockquote style="font-style: normal">
-- 狼 / <i>liáng</i> / "wolf"<br>
+- 狼 / <i>láng</i> / "wolf"<br>
 - 猪 / <i>zhū</i> / "pig"<br>
 - 猫 / <i>māo</i> / "cat"<br>
 - 狐狸 / <i>hú'li</i> / "fox" (you may have heard of 狐狸精 / <i>hú'li'jīng</i>,
@@ -691,7 +693,7 @@ in the related characters:
 
 <blockquote style="font-style: normal">
 - 蛇 / <i>shé</i> / "snake"<br>
-- 虾 / <i>xià</i> / "shrimp"<br>
+- 虾 / <i>xiā</i> / "shrimp"<br>
 - 蝴蝶 / <i>hú'dié</i> / "butterfly"<br>
 - 蜥蜴 / <i>xī'yì</i> / "lizard"<br>
 </blockquote>
@@ -786,7 +788,7 @@ Shu / 朴树's songs),
   <div style="margin: 15px;">
   <b>How to call me in Chinese</b>:<br>
   我是法国人，但是爸爸是越南人，所以我的名字来自越南。
-  翻译成中文，我的名字就是“湖山”。
+  翻译成中文，它的意思是“湖山”。
   发音也差不多。如果你是中国人，可以叫我“湖山”。
   </div></div>
 
