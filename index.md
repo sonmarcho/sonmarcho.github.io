@@ -42,4 +42,4 @@ industry.
 I'm currently working on the [verification of Rust programs](1-projects.html#Aeneas), and am looking for
 interns: feel free to **drop me a mail**! You can find a list of potential
 internship topics
-[here](https://team.inria.fr/prosecco/files/2022/11/rust-internship-proposal.pdf).
+[here](/assets/documents/rust-internship-proposals.pdf).
