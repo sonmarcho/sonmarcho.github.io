@@ -39,6 +39,13 @@ title: "Papers & Talks"
 
 ## Talks
 
+### 2023
+
+* **Aeneas: Rust Verification by Functional Translation**,
+  I gave variations of this talk at Inria Grenoble, Inria Rennes,
+  ProLang@Inria and the Rust Formal Methods Interest Group.
+  [PDF](papers/2023-02-08-Aeneas-ProLang.pdf)
+
 ### 2022
 
 * **Noise\*: A Library of Verified High-Performance Secure Channel Protocol Implementations**,
