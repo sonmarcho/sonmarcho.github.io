@@ -5,6 +5,12 @@ title: "Papers & Talks"
 
 ## Publications
 
+### 2023
+
+* [**Modularity, Code Specialization, and Zero-Cost Abstractions for Program
+  Verification**](https://arxiv.org/abs/2102.01644),
+  <ins>Son Ho</ins>, Aymeric Fromherz, Jonathan Protzenko, *(ICFP 2023)*.
+
 ### 2022
 
 * [**Aeneas: Rust Verification by Functional Translation**](https://dl.acm.org/doi/10.1145/3547647),
@@ -12,13 +18,7 @@ title: "Papers & Talks"
   [long version](https://arxiv.org/abs/2206.07185). [talk](https://www.youtube.com/watch?v=2sILtqcZqqg).
 
 * [**Noise\*: A Library of Verified High-Performance Secure Channel Protocol Implementations**](https://eprint.iacr.org/2022/607.pdf),
-  <ins>Son Ho</ins>, Jonathan Protzenko, Abhishek Bichhawat, Karthikeyan Bhargavan. *(S&P’22).*
-
-## 2021
-
-* [**Zero-cost meta-programmed stateful functors in F\***](https://arxiv.org/abs/2102.01644),
-  Jonathan Protzenko, <ins>Son Ho</ins>. *(preprint)*.
-
+  <ins>Son Ho</ins>, Jonathan Protzenko, Abhishek Bichhawat, Karthikeyan Bhargavan. *(S&P’22)*.
 
 ### 2020
 
@@ -42,8 +42,8 @@ title: "Papers & Talks"
 ### 2023
 
 * **Aeneas: Rust Verification by Functional Translation**,
-  I gave variations of this talk at Inria Grenoble, Inria Rennes,
-  ProLang@Inria and the Rust Formal Methods Interest Group.
+  I gave variations of this talk at various institutions and workshops, including
+  different Inria institutes, MSR, the NUS, or the Rust Formal Methods Interest Group.
   [PDF](papers/2023-02-08-Aeneas-ProLang.pdf)
 
 ### 2022
@@ -56,7 +56,7 @@ title: "Papers & Talks"
 
 ### 2021 
 * **Noise\*: A Library of Verified High-Performance Secure Channel Protocol Implementations**,
-  I gave variations of this talk at Inria Paris and at MSR. [PDF](http://cambium.inria.fr/seminaires/transparents/20210927.Son.Ho.pdf).
+  I gave variations of this talk at Inria and at MSR. [PDF](http://cambium.inria.fr/seminaires/transparents/20210927.Son.Ho.pdf).
   
 
 ### 2018
