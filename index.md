@@ -21,7 +21,7 @@ Protzenko](https://jonathan.protzenko.fr/). My research field is the formal veri
 of computer programs, which basically consists in applying mathematical analyses to
 programs in order to check that they behave in some well-defined manner, for example that
 an embedded system never crashes, or that a cryptographic protocol never reveals secret
-data such as private keys or passwords.
+data such as private messages or passwords.
 
 # Motivation
 
