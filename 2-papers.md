@@ -5,6 +5,10 @@ title: "Papers & Talks"
 
 ## Publications
 
+### 2024
+* [**Incremental Proof Development in Dafny with Module-Based Induction**](https://arxiv.org/abs/2401.16233),
+  <ins>Son Ho</ins>, Clément Pit-Claudel, *(Dafny Workshop)*.
+
 ### 2023
 
 * [**Modularity, Code Specialization, and Zero-Cost Abstractions for Program

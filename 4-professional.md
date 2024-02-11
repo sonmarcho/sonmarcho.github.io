@@ -7,12 +7,12 @@ title: "Past Experience"
 
 During this research internship at Amazon Web Service in Seattle, I worked on
 formalizing the semantics of the [Dafny](https://dafny.org/) verification
-language, and verifying compiler transformations applied on Dafny programs.
-This work was carried in Dafny itself. The end goal is to bootstrap the Dafny
+language, and on verifying compiler transformations applied to Dafny programs.
+This work was carried in Dafny itself. The end goal was to bootstrap the Dafny
 compiler, in order to have a verified compilation pipeline from Dafny to its
 various target languages (Java, C#, Go, etc.). The result of this work is in the
 following [repository](https://github.com/dafny-lang/compiler-bootstrap), and
-there is a blog post coming.
+we presented some of our results at the [Dafny Workshop](https://arxiv.org/abs/2401.16233).
 
 ## Microsoft Research --- Summer 2021
 
