@@ -310,13 +310,10 @@ you learn a lot - a lot more than the other techniques.
   <div style="background: lightgray; border: 2px solid gray;">
   <div style="margin: 15px;">
 
-  <b>My favourite museum is <i>musée d'Orsay</i></b>, in Paris. I love the paintings,
-  and I used to go there with friends to draw the sculptures as they have an
-  extremely good sculptures collection.
-  There is a nearby café,
-  <a href="https://goo.gl/maps/88HS7utGMKwo4WFL9"><i>Les Deux Musées</i></a>,
-  where we would go after the drawing session to chat a bit - as a side note:
-  their hot chocolate with cream is marvelous.
+  <b>My favourite museum in Paris is <i>musée d'Orsay</i></b>. I love the paintings,
+  and I used to go there with friends to draw the sculptures (they have an
+  amazing collection!). After the drawing session, we would
+  then head to one of the nearby cafés to have a hot drink.
 
   </div></div>
 
