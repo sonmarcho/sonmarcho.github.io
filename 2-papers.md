@@ -6,6 +6,10 @@ title: "Papers & Talks"
 ## Publications
 
 ### 2024
+* [**Sound Borrow-Checking for Rust via Symbolic Semantics**](https://arxiv.org/abs/2404.02680),
+  <ins>Son Ho</ins>, Aymeric Fromherz, Jonathan Protzenko, *(Preprint)*.
+
+
 * [**Incremental Proof Development in Dafny with Module-Based Induction**](https://arxiv.org/abs/2401.16233),
   <ins>Son Ho</ins>, Clément Pit-Claudel, *(Dafny Workshop)*.
 
