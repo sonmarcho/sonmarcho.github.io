@@ -360,6 +360,14 @@ school](https://github.com/sonmarcho/CrowdEngine).
 You can learn more about my experiments [here](/2021/01/19/old-town.html)
 or [there](/2022/12/26/sculpted-head.html).
 
+<div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
+<a href="assets/images/cg-ancient-hall.jpg">
+<img src="assets/images/cg-ancient-hall.jpg"
+     alt="" />
+</a>
+<figcaption>Ancient hall</figcaption>
+</div>
+
 ## Mandarin Chinese <a name="chinese"></a>
 
 I lived in Shanghai in 2019, which allowed me to discover the Chinese culture
