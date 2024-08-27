@@ -6,7 +6,8 @@ title: "Papers & Talks"
 ## Publications
 
 ### 2024
-* [**Sound Borrow-Checking for Rust via Symbolic Semantics**](https://dl.acm.org/doi/abs/10.1145/3674640),
+* <a name="ho2024rust"></a>
+  [**Sound Borrow-Checking for Rust via Symbolic Semantics**](https://dl.acm.org/doi/abs/10.1145/3674640),
   <ins>Son Ho</ins>, Aymeric Fromherz, Jonathan Protzenko, *(ICFP 2024)*.
   \[ [bib](papers_bib.html#ho2024rust) | [long version](https://arxiv.org/abs/2404.02680) \].
 
@@ -24,7 +25,8 @@ title: "Papers & Talks"
 
 ### 2022
 
-* [**Aeneas: Rust Verification by Functional Translation**](https://dl.acm.org/doi/10.1145/3547647),
+* <a name="ho2022aeneas"></a>
+  [**Aeneas: Rust Verification by Functional Translation**](https://dl.acm.org/doi/10.1145/3547647),
   <ins>Son Ho</ins>, Jonathan Protzenko. *(ICFP 2022)*.
   \[ [bib](papers_bib.html#ho2022aeneas) | [long version](https://arxiv.org/abs/2206.07185) | [talk](https://www.youtube.com/watch?v=2sILtqcZqqg) \].
 
