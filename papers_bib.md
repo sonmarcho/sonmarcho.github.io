@@ -26,12 +26,12 @@ layout: default
 <a name="ho2024dafny"></a>
 ```
 @article{ho2024dafny,
-  title={Incremental Proof Development in Dafny with Module-Based Induction}, 
-  author={Son Ho and Clément Pit-Claudel},
+  title={Incremental Proof Development in Dafny with Module-Based Induction},
+  author={Ho, Son and Pit-Claudel, Clément},
   journal={ArXiv},
   year={2024},
   volume={abs/2401.16233},
-  url={https://arxiv.org/abs/2401.16233}, 
+  url={https://arxiv.org/abs/2401.16233},
 }
 ```
 
