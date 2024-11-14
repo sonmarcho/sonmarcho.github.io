@@ -14,7 +14,10 @@ title: ""
 
 # Introduction
 
-I am a Ph.D. candidate working at [INRIA](https://www.inria.fr/fr/centre-inria-de-paris) in
+I am a post-doctoral researcher in the [Azure Research
+team](https://www.microsoft.com/en-us/research/group/azure-research/)
+in Cambdrige, UK.
+Previously, I did my PhD at [INRIA](https://www.inria.fr/fr/centre-inria-de-paris) in
 the [Prosecco](https://prosecco.gforge.inria.fr/) team, under the supervision of
 [Karthikeyan Bhargavan](https://prosecco.gforge.inria.fr/personal/karthik/) and [Jonathan
 Protzenko](https://jonathan.protzenko.fr/). My research field is the formal verification
@@ -39,7 +42,6 @@ industry.
 
 # Ongoing Work
 
-I'm currently working on the [verification of Rust programs](1-projects.html#Aeneas), and am looking for
-interns: feel free to **drop me a mail**! You can find a list of potential
-internship topics
-[here](/assets/documents/rust-internship-proposals.pdf).
+I'm currently working on the [verification of Rust programs](1-projects.html#Aeneas), and
+am looking for interns: feel free to **drop me a mail**! You can find a list of potential
+internship topics [here](/assets/documents/rust-internship-proposals.pdf).
