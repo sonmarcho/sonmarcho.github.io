@@ -1,0 +1,5 @@
+- PLDI 2024, Artifact Evaluation Committee
+- OOPSLA 2024, Artifact Evaluation Committee
+- USENIX 2023, Artifact Evaluation Committee
+- ICFP 2023, Artifact Evaluation Committee
+- ICFP 2022, Artifact Evaluation Committee
