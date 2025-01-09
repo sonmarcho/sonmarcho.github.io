@@ -7,7 +7,7 @@ layout: default
 title: ""
 ---
 
-<img src="profile_picture12.jpg"
+<img src="assets/profile/profile_picture.jpg"
      alt="Profile picture"
      height="275"
      style="float: left; margin-top: 15px; margin-right: 15px; margin-bottom: 0px" />
