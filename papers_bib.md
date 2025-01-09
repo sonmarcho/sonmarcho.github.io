@@ -2,6 +2,19 @@
 layout: default
 ---
 
+<a name="ho2024charon"></a>
+```
+@misc{ho2024charon,
+      title={Charon: An Analysis Framework for Rust}, 
+      author={Son Ho and Guillaume Boisseau and Lucas Franceschino and Yoann Prak and Aymeric Fromherz and Jonathan Protzenko},
+      year={2024},
+      eprint={2410.18042},
+      archivePrefix={arXiv},
+      primaryClass={cs.PL},
+      url={https://arxiv.org/abs/2410.18042}, 
+}
+```
+
 <a name="ho2024rust"></a>
 ```
 @article{ho2024rust,
