@@ -6,6 +6,11 @@ title: "Papers & Talks"
 ## Publications
 
 ### 2024
+* <a name="ho2024thesis"></a>
+  [**Formal Verification of Rust Programs by Functional Translation**](papers/thesis-manuscript.pdf),
+  <ins>Son Ho</ins>, *(PhD Thesis)*.
+  \[ [bib](papers_bib.html#ho2024thesis) \].
+
 * <a name="ho2024charon"></a>
   [**Charon: An Analysis Framework for Rust**](https://arxiv.org/abs/2410.18042),
   <ins>Son Ho</ins>, Guillaume Boisseau, Lucas Franceschino, Yoann Prak, Aymeric Fromherz, Jonathan Protzenko, *(preprint)*.

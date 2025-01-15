@@ -2,6 +2,18 @@
 layout: default
 ---
 
+<a name="ho2024thesis"></a>
+```
+@phdthesis{ho2024thesis,
+  title={Formal Verification of Rust Programs by Functional Translation},
+  author={Ho, Son},
+  year={2024},
+  school={Universit{\'e} Paris-Centre},
+  url={https://sonho.fr/papers/thesis-manuscript.pdf},
+}
+```
+
+
 <a name="ho2024charon"></a>
 ```
 @misc{ho2024charon,
