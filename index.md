@@ -45,3 +45,10 @@ industry.
 I'm currently working on the [verification of Rust programs](1-projects.html#Aeneas), and
 am looking for interns: feel free to **drop me a mail**! You can find a list of potential
 internship topics [here](/assets/documents/rust-internship-proposals.pdf).
+
+# News
+
+- **2024-12-09**: I successfully **defended my PhD**! You can now call me Dr. Ho (please don't).
+- **2024-11-15**: I'm now a **post-doc at Azure Research** in Cambridge (UK). I will continue
+  working on the verification of Rust programs by applying the Aeneas toolchain I
+  developed during my PhD to Microsoft's internal code.
