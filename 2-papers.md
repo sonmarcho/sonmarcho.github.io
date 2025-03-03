@@ -9,7 +9,7 @@ title: "Papers & Talks"
 * <a name="ho2024thesis"></a>
   [**Formal Verification of Rust Programs by Functional Translation**](papers/thesis-manuscript.pdf),
   <ins>Son Ho</ins>, *(PhD Thesis)*.
-  \[ [bib](papers_bib.html#ho2024thesis) \].
+  \[ [bib](papers_bib.html#ho2024thesis) | [ppt](papers/2024-12-09-defense.pptx) \].
 
 * <a name="ho2024charon"></a>
   [**Charon: An Analysis Framework for Rust**](https://arxiv.org/abs/2410.18042),
