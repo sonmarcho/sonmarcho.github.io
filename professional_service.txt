@@ -1,5 +1,11 @@
-- PLDI 2024, Artifact Evaluation Committee
-- OOPSLA 2024, Artifact Evaluation Committee
+- OCaml Workshop 2025: PC
+- OOPSLA 2025, Artifact Evaluation Committee
+- PLDI 2025, Artifact Evaluation Committee
+- ITP 2025: external reviewer
+- ICFP 2024, Artifact Evaluation Committee
 - USENIX 2023, Artifact Evaluation Committee
 - ICFP 2023, Artifact Evaluation Committee
 - ICFP 2022, Artifact Evaluation Committee
+
+- ~~PLDI 2024, Artifact Evaluation Committee~~
+- ~~OOPSLA 2024, Artifact Evaluation Committee~~
