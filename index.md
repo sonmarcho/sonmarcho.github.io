@@ -43,16 +43,21 @@ industry.
 # Ongoing Work
 
 I'm currently working on the [verification of Rust programs](1-projects.html#Aeneas), and
-am looking for interns: feel free to **drop me a mail**! You can find a list of potential
-internship topics [here](/assets/documents/rust-internship-proposals.pdf).
+am looking for interns and collaborators: feel free to **drop me a mail**! You can find a
+list of potential topics [here](/assets/documents/aeneas.html).
 
 # News
 
-- **2025-06-10**: Microsoft just published a [blog
-  post](https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/)
+- **2025-07-25**: I presented our [tool-paper about Charon](https://arxiv.org/abs/2410.18042),
+  our easy-to-use interface for rustc, at CAV in Zagreb.
+- **2025-06-10**: **Microsoft just published a [blog
+  post](https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/)**
   about the project I'm working on! In just a few words: Microsoft its open source
   cryptographic library, notably used in Windows and Azure Linux, from trusted
   C code to verified Rust code. And the verification is performed by using Aeneas!
+- **2025-05-03/2025-05-06**: I presented our latest progress about using Aeneas to verify
+  Microsoft's cryptographic code at the **Rust Verification Workshop** and at a satellite
+  event of ICSE.
 - **2025-03-28**: My thesis [*Formal Verification of Rust Programs by Functional
   Translation*](papers/thesis-manuscript.pdf) received the
   [accessit of Prix de thèse GDR Sécurité Informatique](https://gdr-securite.irisa.fr/actualite/prix-de-these-2025/#:~:text=Le%20GDR%20Sécurité%20Informatique%20délivre,Christina%20Boura%20et%20Yann%20Rotella.)!
