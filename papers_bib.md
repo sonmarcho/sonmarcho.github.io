@@ -2,6 +2,28 @@
 layout: default
 ---
 
+<a name="ho2025charon"></a>
+```
+@InProceedings{ho2025charon,
+author="Ho, Son
+and Boisseau, Guillaume
+and Franceschino, Lucas
+and Prak, Yoann
+and Fromherz, Aymeric
+and Protzenko, Jonathan",
+editor="Piskac, Ruzica
+and Rakamari{\'{c}}, Zvonimir",
+title="Charon: An Analysis Framework for Rust",
+booktitle="Computer Aided Verification",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="377--391",
+abstract="With the explosion in popularity of the Rust programming language, a wealth of tools have recently been developed to analyze, verify, and test Rust programs. Alas, the Rust ecosystem remains relatively young, meaning that every one of these tools has had to re-implement difficult, time-consuming machinery to interface with the Rust compiler and its cargo build system, to hook into the Rust compiler's internal representation, and to expose an abstract syntax tree (AST) that is suitable for analysis rather than optimized for efficiency.",
+isbn="978-3-031-98685-7"
+}
+```
+
 <a name="ho2024thesis"></a>
 ```
 @phdthesis{ho2024thesis,
@@ -10,20 +32,6 @@ layout: default
   year={2024},
   school={Universit{\'e} Paris-Centre},
   url={https://sonho.fr/papers/thesis-manuscript.pdf},
-}
-```
-
-
-<a name="ho2024charon"></a>
-```
-@misc{ho2024charon,
-      title={Charon: An Analysis Framework for Rust}, 
-      author={Son Ho and Guillaume Boisseau and Lucas Franceschino and Yoann Prak and Aymeric Fromherz and Jonathan Protzenko},
-      year={2024},
-      eprint={2410.18042},
-      archivePrefix={arXiv},
-      primaryClass={cs.PL},
-      url={https://arxiv.org/abs/2410.18042}, 
 }
 ```
 

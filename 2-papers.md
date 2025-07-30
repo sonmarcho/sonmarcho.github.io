@@ -5,16 +5,18 @@ title: "Papers & PCs"
 
 ## Publications
 
+### 2025
+* <a name="ho2025charon"></a>
+  [**Charon: An Analysis Framework for Rust**](https://arxiv.org/abs/2410.18042),
+  <ins>Son Ho</ins>, Guillaume Boisseau, Lucas Franceschino, Yoann Prak, Aymeric Fromherz,
+  Jonathan Protzenko, *(CAV 2025)*.
+  \[ [bib](papers_bib.html#ho2024charon) \].
+
 ### 2024
 * <a name="ho2024thesis"></a>
   [**Formal Verification of Rust Programs by Functional Translation**](papers/thesis-manuscript.pdf),
   <ins>Son Ho</ins>, *(PhD Thesis)*.
   \[ [bib](papers_bib.html#ho2024thesis) | [ppt](papers/2024-12-09-defense.pptx) \].
-
-* <a name="ho2024charon"></a>
-  [**Charon: An Analysis Framework for Rust**](https://arxiv.org/abs/2410.18042),
-  <ins>Son Ho</ins>, Guillaume Boisseau, Lucas Franceschino, Yoann Prak, Aymeric Fromherz, Jonathan Protzenko, *(preprint)*.
-  \[ [bib](papers_bib.html#ho2024charon) \].
 
 * <a name="ho2024rust"></a>
   [**Sound Borrow-Checking for Rust via Symbolic Semantics**](https://dl.acm.org/doi/abs/10.1145/3674640),
