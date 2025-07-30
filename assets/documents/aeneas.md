@@ -1,6 +1,5 @@
 ---
 layout: default
-exclude: true
 ---
 
 # Aeneas

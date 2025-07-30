@@ -12,3 +12,12 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-postfiles
+
+# Pages appearing in navigation
+header_pages:
+  - index.md
+  - 1-projects.md
+  - 2-papers.md
+  - 3-blog-posts.md
+  - 4-professional.md
+  - 5-passions.md
