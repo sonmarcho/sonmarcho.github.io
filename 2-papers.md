@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Papers & Talks"
+title: "Papers & PCs"
 ---
 
 ## Publications
@@ -90,3 +90,23 @@ title: "Papers & Talks"
 <!-- ### 2018 -->
 
 <!-- * **Proof-Producing Synthesis of CakeML with I/O and Local State from Monadic HOL Functions**, IJCAR 2018. [PDF](https://easychair.org/smart-slide/slide/vkLp#). -->
+
+## Committees
+
+### 2025
+- **OCaml Workshop**, Program Committee
+- **OOPSLA**, Artifact Evaluation Committee
+- **PLDI**, Artifact Evaluation Committee
+- **ITP**, External Reviewer
+
+### 2024
+- **ICFP**, Artifact Evaluation Committee
+
+### 2023
+- **USENIX**, Artifact Evaluation Committee
+- **ICFP**, Artifact Evaluation Committee
+- **CSF**, External Reviewer
+- **ESOP**, External Reviewer
+
+### 2022
+- **ICFP**, Artifact Evaluation Committee

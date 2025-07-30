@@ -1,11 +1,15 @@
 - OCaml Workshop 2025: PC
 - OOPSLA 2025, Artifact Evaluation Committee
 - PLDI 2025, Artifact Evaluation Committee
-- ITP 2025: external reviewer
+- ITP 2025: External Reviewer
 - ICFP 2024, Artifact Evaluation Committee
 - USENIX 2023, Artifact Evaluation Committee
 - ICFP 2023, Artifact Evaluation Committee
+- CSF 2023, External Reviewer
+- ESOP 2023, External Reviewer
 - ICFP 2022, Artifact Evaluation Committee
+
+
 
 - ~~PLDI 2024, Artifact Evaluation Committee~~
 - ~~OOPSLA 2024, Artifact Evaluation Committee~~

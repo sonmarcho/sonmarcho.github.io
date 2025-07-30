@@ -48,10 +48,15 @@ internship topics [here](/assets/documents/rust-internship-proposals.pdf).
 
 # News
 
+- **2025-06-10**: Microsoft just published a [blog
+  post](https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/)
+  about the project I'm working on! In just a few words: Microsoft its open source
+  cryptographic library, notably used in Windows and Azure Linux, from trusted
+  C code to verified Rust code. And the verification is performed by using Aeneas!
 - **2025-03-28**: My thesis [*Formal Verification of Rust Programs by Functional
   Translation*](papers/thesis-manuscript.pdf) received the
   [accessit of Prix de thèse GDR Sécurité Informatique](https://gdr-securite.irisa.fr/actualite/prix-de-these-2025/#:~:text=Le%20GDR%20Sécurité%20Informatique%20délivre,Christina%20Boura%20et%20Yann%20Rotella.)!
 - **2024-12-09**: I successfully **defended my PhD**! You can now call me Dr. Ho (please don't).
 - **2024-11-15**: I'm now a **post-doc at Azure Research** in Cambridge (UK). I will continue
-  working on the verification of Rust programs by applying the Aeneas toolchain I
-  developed during my PhD to Microsoft's internal code.
+  working on the verification of Rust programs with the Aeneas toolchain, but this time
+  by applying it on Microsoft's internal code.
