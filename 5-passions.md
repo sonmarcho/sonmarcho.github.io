@@ -106,7 +106,9 @@ fragility of the result - I'm actually having a hard time storing my drawings.
   I sometimes quickly sketch the model I'm drawing by using
   colored pencils, before working with pastels sticks. I once encountered the
   issue that depending on the pencils used, it is not always possible to cover their
-  strokes with pastel. I now choose my pencils with a lot of care whenever I do so.
+  strokes with pastel. I now use <i>pastel</i> pencils whenever I need to do such
+  sketches: as they are made from the same material (though more compact) than the sticks,
+  they blend naturally.
   </p>
 
   <p>
@@ -115,10 +117,9 @@ fragility of the result - I'm actually having a hard time storing my drawings.
   which proved perfect for pastel: the touch is very pleasant, it retains pastel
   well and has a very high level of saturation. Also, it is less abrasive than
   pastel card, thus preserving your pastel sticks. I also had a try at doing my
-  own paper with powder of pumice stone, but I need to improve my
-  technique because the result is a bit uneven so far.
+  own paper with powder of pumice stone, but it is not that easy to get a uniform
+  result.
   </p>
-
   <div style="clear: both"></div>
 
   </div></div><br>
@@ -134,8 +135,8 @@ fragility of the result - I'm actually having a hard time storing my drawings.
 
 In parallel, I also explored techniques like ink or gouache. I didn't spend as
 much time as I would have liked on gouache, but I like this technique a lot.
-Though the material is not as beautiful and noble as oil, it is a very
-interesting technique because by drying fast it allows one to work quickly, and
+Though the material is from my point of view not as beautiful and noble as oil, it is a
+very interesting technique because by drying fast it allows one to work quickly, and
 it gives interesting tranparency effects.
 Any mistake can also be reworked, contrary to
 watercolor for which you need to adopt a completely different philosophy by
@@ -164,7 +165,8 @@ interesting effects and allows me to work faster than with pencil. I also loved
 practicing the [*trois-crayons*](https://en.wikipedia.org/wiki/Trois_crayons)
 technique (3-pencils: *pierre noire*, sanguine, white, usually applied on a
 mid-tone paper), a technique dating from the 16<sup>th</sup> century, which was
-intensively used to make portraits.
+intensively used to make portraits (search for Jean-Étienne Liotard on the internet if you
+want to see the drawings of someone who mastered this technique).
 
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
 <img src="assets/images/drawing-dog.jpg"
@@ -226,7 +228,7 @@ there is nothing more boring than a pencil stroke.
 Using pencils thus takes more time and
 forces you to be extremely strict and rigorous, but on the other hand gives you
 a lot of control and leads to very subtle and interesting results. It also makes
-you learn a lot - a lot more than the other techniques.
+you learn a lot.
 
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
 <img src="assets/images/drawing-head.jpg"
@@ -327,8 +329,8 @@ you learn a lot - a lot more than the other techniques.
 <figcaption>Old town</figcaption>
 </div>
 
-After a very long break, I recently hopped back on
-[Blender](https://www.blender.org/) to have a bit of fun.
+I used to do computer graphics when in high-school, and after a very long break, I
+recently hopped back on [Blender](https://www.blender.org/) to have a bit of fun.
 
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
 <img src="assets/images/cg-procedural-terrain1.jpg"
