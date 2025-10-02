@@ -372,18 +372,21 @@ or [there](/2022/12/26/sculpted-head.html).
 
 I lived in Shanghai in 2019, which allowed me to discover the Chinese culture
 and more specifically the Chinese language. I fell in love with this language,
-and since then have been practicing with diligence. My dream is to have
-the ability to enjoy Chinese literature in Chinese, and by enjoy I mean
-not only understand the text but also grasp its subtleties and relish the style in
-which it is written, all things which are lost in translation. This goal is of
-course difficult, maybe to the point of being unattainable; it is
-nonetheless the resolution by which I abide when I practice.
+and since then have been practicing with diligence.
+
+<!-- My dream is to have -->
+<!-- the ability to enjoy Chinese literature in Chinese, and by enjoy I mean -->
+<!-- not only understand the text but also grasp its subtleties and relish the style in -->
+<!-- which it is written, all things which are lost in translation. This goal is of -->
+<!-- course difficult, maybe to the point of being unattainable; it is -->
+<!-- nonetheless the resolution by which I abide when I practice. -->
 
 One of the main reasons why I went to Shanghai is that I had then lived almost
-all my life in France and was looking for a radically different experience.
+all my life in France, had the opportunity to do an internship abroad, and was
+looking for a radically different experience.
 China then seemed an obvious good choice, so I went. I initially hadn't intended
 to learn Chinese because it is such a difficult language, until a friend who was
-also going convinced me to attend a Chinese class.
+also going to China convinced me to attend a Chinese class.
 
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px">
 <img src="assets/images/chinese-characters.jpg"
@@ -433,7 +436,8 @@ grammar, and I actually own a 400-page book just about this topic ([this
 book](https://g.co/kgs/97M3bd)).
 
 #### Modifying the meaning
-Something fun about the Chinese grammar is the modifiers. It is for instance
+A good way to illustrate how different the grammar is to, say, the English grammar,
+is to look at the *modifiers*. It is for instance
 possible to *modify* a noun by adding information with the structural particle
 的, written <i>de</i> in pinyin, the official romanization system for Mandarin
 Chinese. Note that pinyin uses accents to denote tones, but I will omit them for
@@ -445,23 +449,26 @@ written stuck to each other):
 <blockquote style="font-style: normal">
 我 <b>的</b> 朋友<br>
 wo <b>de</b> peng'you<br>
-"I <b>[characterizes]</b> friend" --> i.e.: "my friend"
+"I <b>[modifies]</b> friend" --> i.e.: "my friend"
 </blockquote>
 
 我 / <i>wo</i> is "me" or "I", and 朋友 / <i>peng'you</i> means "friend". The
 interesting point is that 的 really doesn't express possession in the first
 place: in the previous sentence it simply expresses the fact that 朋友 /
-<i>peng-you</i> / "friend" is characterized by 我 / <i>wo</i> / "me". In this
-context, the sentence specifically means "my friend". But it is possible to use
-的 to modify a noun with an adjective: again, it is all about
-*characterization*.
+<i>peng-you</i> / "friend" is modified or characterized by 我 / <i>wo</i> / "me". In this
+context, the sentence specifically means "my friend". But unlike what happens in
+English, the Chinese sentence doesn't use a *possessive pronoun*: 我 / <i>wo</i> / "me"
+modifies 朋友 / <i>peng-you</i> / "friend", but 我的 / <i>wo-de</i> is not a possessive
+pronoun and does not mean "my", strictly speaking.
 
+Another interesting thing is that it is possible to use
+的 to modify a noun with an adjective.
 For instance, you can use 好 / <i>hao</i> / "good" to characterize a friend:
 
 <blockquote style="font-style: normal">
 好 <b>的</b> 朋友<br>
 hao <b>de</b> peng'you<br>
-"good <b>[characterizes]</b> friend" --> i.e.: "(a) good friend"<br>
+"good <b>[modifies]</b> friend" --> i.e.: "(a) good friend"<br>
 </blockquote>
 
 You can even characterize this friend with the fact that you met her in
@@ -471,7 +478,7 @@ bit the equivalent of a relative clause:
 <blockquote style="font-style: normal">
 我 在 上海 见过 <b>的</b> 朋友。<br>
 wo zai shang'hai jian'guo <b>de</b> peng'you. <br>
-"I in Shanghai meet <b>[characterizes]</b> friend" --> i.e.: "The/a friend I met in Shanghai".
+"I in Shanghai meet <b>[modifies]</b> friend" --> i.e.: "The/a friend I met in Shanghai".
 </blockquote>
 
 Here there is something else to notice, which is that the place (在上海/ <i>zai
@@ -596,7 +603,7 @@ moving my hand up and down to accompany the tones while speaking Chinese...
   <p>
   Chinese people also don't
   exclusively speak Mandarin, and a good example is given by Cantonese which
-  people speak in the south. Actually, from my experience, it seems that most
+  people speak in the south. Actually, it seems that most
   people speak at least two languages. They speak Mandarin as it is the common
   langage and actually often designated as such (普通话 / <i>pǔ'tōng huà</i> /
   "common language"). But they also often speak a local language or dialect.
@@ -659,7 +666,7 @@ their parents' knees ([ref](http://www.homeinmists.com/hd/orgpage.html?page=1092
   I actually heard a different explanation for the character 學, in which 爻stands
   for the stars. This gives: <b>learning is for a child to catch the stars with
   their hands</b>. I could unfortunately not find any source supporting this
-  interpretation...
+  interpretation but I like it, so I wanted to share it...
   </p>
 
   </div></div></p>
@@ -730,38 +737,59 @@ forming Chinese characters...
 
 ### Some notes about learning Chinese
 While it is easy to learn Chinese in China, I had to adapt a bit once I was back
-in France to build a proper learning environment. My way of doing it: Chinese
-class once a week, tandems with some Chinese partners at least twice a week, a
-bit of reading, and Chinese TV series when I have spare time. I used to learn
-vocabulary with the flash card application [Anki](https://apps.ankiweb.net/),
-but have stopped because it didn't prove to be that efficient. This probably
-depends on your goals, though, as flash cards can be very helpful when preparing
-for an examination for instance. I always focus on tandems when I don't have
-much time, because I think practicing conversation is by far the most useful,
-and it is also a lot of fun. Note that it is easy to find partners on
-applications like [Tandem](https://www.tandem.net).
+in France to build a proper learning environment. I try to practice regularly and
+focus on finding pleasant ways of learning, as this has proved to be the only way for
+me to stay motivated on the long term.
+For instance, I used to learn vocabulary with the flash card application
+[Anki](https://apps.ankiweb.net/), but have stopped because learning vocabulary
+with flash cards is probably one of the most boring ways of learning a language.
+It can be extremely useful, when preparing for an examination for instance, but I find it
+hard to stay motivated on the long term.
+Exchanging with people in Chinese, at the opposite, is a lot more fun and quite effective
+to learn the language. For this reason, I really love doing tandems with Chinese partners
+(you find someone who wants to learn your language, and converse part time in your
+language, part time in the other person's language).
+I also practice a lot by watching movies and series, and reading books.
 
 About TV series, I started with
-[致我们单纯的小美好](https://www.youtube.com/watch?v=7I1SPKwTXJ0)
-and am now watching [大江大河](https://youtu.be/o_IGbDIEOjo).
-I'm usually not fond of sickeningly sweet and romantic dramas like
-致我们单纯的小美好, but at
-least it is easy to understand so I recommend it for a start.
-I definitely recommend 大江大河.
-Besides, I also heard a lot about the costume drama
-[琅琊榜](https://youtu.be/xEdMFMLe3_o), which had a lot of success in China due to
-its rich and complex plot. It is good to watch (I love the
-[credits song](https://youtu.be/qzB1yoGgcoo), by the way), but not that useful to 
-study Chinese unless you want to learn a lot of old and specific terms, as well as all
-the possible ways of addressing someone at the imperial court (殿下, 陛下,
-whatever...).
+[致我们单纯的小美好 (A Love so Beautiful)](https://www.youtube.com/watch?v=7I1SPKwTXJ0).
+I'm usually not super fond of this kind of high-school romantic dramas, but this one had
+the easiest dialogues I could find, and the only ones I could understand without too much
+work back when I started watching series in Chinese, so I would recommend it for a start.
+Another easy series is [以家人之
+名 (Go Ahead)](https://www.youtube.com/watch?v=kqxzTZ6Jp-M&list=PLhayK-qLSbiZkKL3IEuUYwqFQ1j77V4u0).
+This is also a high-school/university romantic drama, but I like it more than the one
+above.
+Regaring romantic dramas, the Taiwanese series **想見你 (Someday or One Day)** is
+really good: it blends romance (less sweet than the ones above but maybe still a bit too
+sweet for my taste)
+with a murder mystery, time travelling, and a really good
+soundtrack (I still listen to some of the music!).
+The more complex plot makes this series slightly more difficult for language learners,
+but on the other hand it is *actually* a good series (I would actually recommend watching
+it even though you're not learning Chinese), so staying motivated to learn is not
+hard. Also, it is quite short.
 
-I've recently discovered the science fiction author Liu Cixin (刘慈欣) and
-really love his books. If you don't know where to start, I recommend his short
+Among the other more interesting, but also more difficult, series, I recommend: [大江大
+河 (Like a Flowing River)](https://youtu.be/o_IGbDIEOjo) (about the China during the
+reform and opening up era), 
+[三十而已 (Nothing But Thirty)](https://youtu.be/F4zhJHw-BpA?si=yCuyWr6dGFoy78CJ) (about what it means to
+be a 30 year old women in China and all the social pressure and challenges which come with
+it), and [玫瑰的故事 (The Tale of Rose)](https://www.youtube.com/watch?v=wtrBfiRkb7M)
+(this series follows the life of a young women as she finishes her bachelor and starts
+working). I totally recommend watching those series, even to people
+who are not learning Chinese: they are *good* series, and they are very interesting
+if you want to know more about China (*Like a Flowing River* and *Nothing but Thirty* in
+particular). 
+
+About books, I started reading in Chinese when I discovered
+the science fiction author Liu Cixin (刘慈欣), which I really loved.
+Since then, reading has proved to be my most efficient way of acquiring vocabulary.
+If you don't know where to start, I recommend his short
 novel *The Wandering Earth* (流浪地球 - don't watch the movie).
-Reading proved to be my most efficient way of acquiring vocabulary.
 As finding Chinese books can be difficult outside of China
-and importing them is quite expensive, I buy/download ebooks for my Kobo reader.
+and importing them is quite expensive (note that there are several libraries selling
+Chinese books in Paris), I buy/download ebooks for my Kobo reader.
 Even online, I sometimes have trouble finding mainland books and thus often end
 up buying the Taiwanese version (i.e.: with traditional characters),
 but as I intend to learn calligraphy I guess it is for the best...
@@ -773,27 +801,53 @@ but as I intend to learn calligraphy I guess it is for the best...
 <figcaption>Supernova Era (超新星纪元), Liu Cixin (刘慈欣)</figcaption>
 </div>
 
-Also, I loved going to KTVs while in Shanghai, and ended up knowing a small
-repertoire of Chinese songs. My favourites:
-[小幸运](https://youtu.be/Kg-mW8SyNVg) (the movie is cute, by the way),
-[小苹果](https://youtu.be/Hpnub-uM6eo) (stupid, but very fun),
-[月亮代表我的心](https://youtu.be/51xS4yXbryc),
-[童话](https://youtu.be/0FJ1BCbTlXg),
-[平凡之路](https://youtu.be/NjTT5_RSkw4) (more generally, I really enjoy Pu
+Among other books, I recommand:
+- *The Magician on the Skywalk* (天橋上的魔術師). This is a collection of short stories by
+  Taiwanese author Wu Ming-Yi (吳明益). Those stories happen in contemporary Taiwan
+  (mostly in Taipei from what I remember) but contain a bit of magic and mystery,
+  such as a magician whose tricks happen to actually be real magic, or a boy
+  whose life goes through many hardships after he puts his hand in the mouth of lion statue
+  at the entrance of a temple and says "eat, eat".
+- *Running through Zhongguancun* (跑步穿过中关村). This is also a collection of short
+  stories happening in Beijing, by Chinese author Xu Zechen (徐则臣).
+  Zhongguancun is a famous district in Beijing, close to many important universities like
+  Beida and Qinghua.
+
+Finally, I loved going to KTVs while in Shanghai, and ended up knowing a small
+repertoire of Chinese songs. All the people who ever learnt Chinese
+have learnt [月亮代表我的心](https://youtu.be/51xS4yXbryc) at some point,
+but there are others I like very much:
+[小幸运 (Little Happiness)](https://youtu.be/Kg-mW8SyNVg) (the first one I learnt, and
+still my favourite for this reason :) ),
+[愛人錯過 (Somewhere in Time)](https://youtu.be/6D79CYTxvOM?si=wO6npyNhcAQrjaDr) (more
+generally, I really like the group 告五人 / Accusefive),
+[平凡之路 (Ordinary Road)](https://youtu.be/NjTT5_RSkw4) (I also really enjoy Pu
 Shu / 朴树's songs),
-[十年](https://youtu.be/7OdargV9K88),
-[夜空中最亮的星](https://www.youtube.com/watch?v=GPnymcrXgX0),
-[卡路里](https://youtu.be/3De50Nx1c5I),
-[学猫叫](https://youtu.be/OHbwkZgkBIU) (don't ask why...),
+[陳奕迅 (Lonely Warrior)](https://youtu.be/Hlp8XD0R5qo?si=oCnSaECO3pJoUena) (this song was
+used in the series Arcane),
+[一生有你](https://youtu.be/e67lEZtJkUQ?si=tJWhEhyoWbL11TYi),
+[十年 (10 years)](https://youtu.be/7OdargV9K88),
+[童话 (Fairy Tale)](https://youtu.be/0FJ1BCbTlXg),
+[夜空中最亮的星 (Brightest Star in the Night Sky)](https://www.youtube.com/watch?v=GPnymcrXgX0),
+[学猫叫 (Learn to Meow)](https://youtu.be/OHbwkZgkBIU) (don't ask why...),
 [Superstar](https://youtu.be/gr5fNKK2FaA),
-[刚好遇见你](https://youtu.be/aa2AhDaK_iY),
-[那些年](https://youtu.be/KqjgLbKZ1h0) (I like the movie).
+[刚好遇见你 (Just Met You)](https://youtu.be/aa2AhDaK_iY),
+[那些年 (Those Bygone Years)](https://youtu.be/KqjgLbKZ1h0).
 
   <div style="background: lightgray; border: 2px solid gray;">
   <div style="margin: 15px;">
-  <b>How to call me in Chinese</b>:<br>
-  我是法国人，但是爸爸是越南人，所以我的名字来自越南。
-  翻译成中文，它的意思是“湖山”。
-  发音也差不多。如果你是中国人，可以叫我“湖山”。
+  <b>About my name</b>: my name is Vietnamese (I'm half French, half Vietnamese).
+  My first name, Son, means "mountain" in Vietnamese, and its pronunciation
+  is close to the word 山 / shan / "mountain". My family name is Ho, which means
+  lake, and whose pronunciation is close to the word 湖 / hu / "lake".
+  So if you're Chinese feel free to call me 湖山 (or maybe 胡山 as 胡 is actually a family
+  name in China).
   </div></div>
+
+  <!-- <div style="background: lightgray; border: 2px solid gray;"> -->
+  <!-- <div style="margin: 15px;"> -->
+  <!-- About my name: my name is Vietnamese (I'm half French, half Vietnamese). -->
+  <!-- My first name, Son, means "mountain" in Vietnamese, and its pronunciation -->
+  <!-- is close to  -->
+  <!-- </div></div> -->
 
