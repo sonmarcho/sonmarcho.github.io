@@ -52,9 +52,9 @@ list of potential topics [here](/assets/documents/aeneas.html).
   our easy-to-use interface for rustc, at CAV in Zagreb.
 - **2025-06-10**: **Microsoft just published a [blog
   post](https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/)**
-  about the project I'm working on! In just a few words: Microsoft its open source
+  about the project I'm working on! In just a few words: Microsoft is porting its open source
   cryptographic library, notably used in Windows and Azure Linux, from trusted
-  C code to verified Rust code. And the verification is performed by using Aeneas!
+  C code to *verified* Rust code. And the verification is performed by using Aeneas!
 - **2025-05-03/2025-05-06**: I presented our latest progress about using Aeneas to verify
   Microsoft's cryptographic code at the **Rust Verification Workshop** and at a satellite
   event of ICSE.
