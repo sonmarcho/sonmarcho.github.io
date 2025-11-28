@@ -95,6 +95,11 @@ title: "Papers & PCs"
 
 ## Committees
 
+### 2026
+- **CPP**, External Reviewer
+- **FoSSaCS**, External Reviewer
+- **JFLA**, Program Committee
+
 ### 2025
 - **OCaml Workshop**, Program Committee
 - **OOPSLA**, Artifact Evaluation Committee
