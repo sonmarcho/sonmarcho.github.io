@@ -33,7 +33,7 @@ necessity in computer security. Any vulnerability left in hardware and software 
 of great concern when dealing with the safety of critical systems, the security of
 embedded systems, and the protection of our privacy. Considering the ambitious recent
 verification projects about compilers, cryptographic protocols, micro-kernels, or hardware
-components, I feel this academic field is achieving maturity. However, much work remains
+components, I believe this academic field is achieving maturity. However, much work remains
 to democratize formal verification, since as of today it is extremely labor-intensive,
 mostly relies on experts manipulating advanced tools far remote from what regular
 programmers use, and still has many gaps regarding the verification of whole systems. I
