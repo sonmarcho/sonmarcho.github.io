@@ -48,6 +48,9 @@ list of potential topics [here](/assets/documents/aeneas.html).
 
 # News
 
+- **2026-01-27**: I received an accessit at the [Gilles Kahn PhD thesis
+  award](https://www.socinfo.fr/palmares-du-prix-de-these-gilles-kahn-2025/) from the
+  French Academy of Science!
 - **2025-07-25**: I presented our [tool-paper about Charon](https://arxiv.org/abs/2410.18042),
   our easy-to-use interface for rustc, at CAV in Zagreb.
 - **2025-06-10**: **Microsoft just published a [blog
