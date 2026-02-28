@@ -9,7 +9,7 @@ title: "Papers & PCs"
 * <a name="ho2025charon"></a>
   [**Charon: An Analysis Framework for Rust**](https://arxiv.org/abs/2410.18042),
   <ins>Son Ho</ins>, Guillaume Boisseau, Lucas Franceschino, Yoann Prak, Aymeric Fromherz,
-  Jonathan Protzenko, *(CAV 2025)*.
+  Jonathan Protzenko, *(CAV 2025 Tool Paper)*.
   \[ [bib](papers_bib.html#ho2024charon) \].
 
 ### 2024
