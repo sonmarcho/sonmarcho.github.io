@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An overview of Aeneas"
+title: "An Overview of the Aeneas Rust Verification Toolchain"
 date: 2026-03-18
 tags: verification rust
 published: true
