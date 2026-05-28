@@ -96,6 +96,7 @@ title: "Papers & PCs"
 ## Committees
 
 ### 2026
+- **ICFP**, Artifact Evaluation Committee Co-Chair
 - **CPP**, External Reviewer
 - **FoSSaCS**, External Reviewer
 - **JFLA**, Program Committee
